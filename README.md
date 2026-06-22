@@ -7,7 +7,7 @@ This is a separate app from the phone version, built for D-pad remotes.
 
 ➡️ **[CantosTV-AndroidTV.apk](CantosTV-AndroidTV.apk?raw=1)**
 
-> Preview build (v0.1). Sideload it onto your TV device.
+> v1.0 (signed release). Sideload it onto your TV device.
 
 ## Install on a TV device
 
