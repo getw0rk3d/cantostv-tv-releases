@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
+  "versionCode": 7,
+  "versionName": "1.4.1",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "ea323dd70909a630873a59816415cb1690b26fe984d31921d964173660843484",
-  "releaseNotes": "Fixes folder scrolling on Live/Movies/Series, makes the Add/Sign In button highlight visible, and refreshes the app logo. Update from Settings → Check for Updates without leaving the app."
+  "sha256": "c2439e667aeaa5289c7286fd36d0cbb860fdec18a72e40a734396cda079682f9",
+  "releaseNotes": "Fixes the poster grid jumping focus back to the folder list on Live TV / Movies / Series, the Multi-Screen channel picker (search bar + X) closing instead of scrolling the list, the TV sleeping during Multi-Screen playback, and locked titles still appearing in Trending. Update from Settings -> Check for Updates without leaving the app."
 }
