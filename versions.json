@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1",
+  "versionCode": 4,
+  "versionName": "1.2",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d1ea925888e74dc6668a97b2647e2d76cd77f982596aa2b62590c653917dd927",
-  "releaseNotes": "In-app updates + faster Movies/Series scrolling. You'll be prompted when a new version is available, and can update from Settings → Check for Updates without leaving the app."
+  "sha256": "5a27c155184b07c1df6ae3b8a3c8daf4df4ac71ebb4be15ac1589bc2c9e4a8e5",
+  "releaseNotes": "Fixes posters not loading on the Movies/Series grids (plus the in-app updater from 1.1). Update from Settings → Check for Updates without leaving the app."
 }
