@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3",
+  "versionCode": 6,
+  "versionName": "1.4",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "80d241a56678ab60f45154340d94a5f4bdea54524d4b46601169d566a85eca7b",
-  "releaseNotes": "Fixes the fresh-install Home (all rows now load), the channel-picker search + back button, the launcher banner, and held-scroll focus. Update from Settings → Check for Updates without leaving the app."
+  "sha256": "ea323dd70909a630873a59816415cb1690b26fe984d31921d964173660843484",
+  "releaseNotes": "Fixes folder scrolling on Live/Movies/Series, makes the Add/Sign In button highlight visible, and refreshes the app logo. Update from Settings → Check for Updates without leaving the app."
 }
