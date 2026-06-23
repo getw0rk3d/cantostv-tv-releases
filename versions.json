@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
+  "versionCode": 8,
+  "versionName": "1.4.2",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "c2439e667aeaa5289c7286fd36d0cbb860fdec18a72e40a734396cda079682f9",
-  "releaseNotes": "Fixes the poster grid jumping focus back to the folder list on Live TV / Movies / Series, the Multi-Screen channel picker (search bar + X) closing instead of scrolling the list, the TV sleeping during Multi-Screen playback, and locked titles still appearing in Trending. Update from Settings -> Check for Updates without leaving the app."
+  "sha256": "93b91ed1a717a89b8c489a78dc19d215f9d69b6fca1a633ad3b3a8f48e70ec8e",
+  "releaseNotes": "Fixes a crash when moving around the buttons / switching seasons on a series page, the channel/episode list scrolling inside the player, and locking a folder or title now keeps your place so you can lock several in a row. Removes the Buffer button from the movie/series player (Live TV only), shows watched checkmarks/timestamps in the in-player Episodes list, and double-press OK to play/pause movies & series. Update from Settings -> Check for Updates."
 }
