@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.4.3",
+  "versionCode": 10,
+  "versionName": "1.4.4",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "757f654859a4375e51187d8ea072fd12bdb8b93805529568c92a7b87c636c385",
-  "releaseNotes": "Locking a folder in the middle of the list now keeps your place instead of jumping back to the top, so you can lock several in a row. Update from Settings -> Check for Updates."
+  "sha256": "e8d117111120400bdd59c42013b5bfe7168e24450c4c0bb72a24913eca698e32",
+  "releaseNotes": "Locking or unlocking a folder now keeps your exact place in the list (no more jumping). Plus you can select multiple folders to lock at once, and unlock several at once from Parental. Update from Settings -> Check for Updates."
 }
