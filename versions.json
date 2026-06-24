@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.2",
+  "versionCode": 9,
+  "versionName": "1.4.3",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "93b91ed1a717a89b8c489a78dc19d215f9d69b6fca1a633ad3b3a8f48e70ec8e",
-  "releaseNotes": "Fixes a crash when moving around the buttons / switching seasons on a series page, the channel/episode list scrolling inside the player, and locking a folder or title now keeps your place so you can lock several in a row. Removes the Buffer button from the movie/series player (Live TV only), shows watched checkmarks/timestamps in the in-player Episodes list, and double-press OK to play/pause movies & series. Update from Settings -> Check for Updates."
+  "sha256": "757f654859a4375e51187d8ea072fd12bdb8b93805529568c92a7b87c636c385",
+  "releaseNotes": "Locking a folder in the middle of the list now keeps your place instead of jumping back to the top, so you can lock several in a row. Update from Settings -> Check for Updates."
 }
