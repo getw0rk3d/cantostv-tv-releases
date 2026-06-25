@@ -5,9 +5,15 @@ This is a separate app from the phone version, built for D-pad remotes.
 
 ## Download
 
-➡️ **[CantosTV-AndroidTV.apk](CantosTV-AndroidTV.apk?raw=1)**
+➡️ **[Latest release (always newest version)](https://github.com/getw0rk3d/cantostv-tv-releases/releases/latest)**
 
-> v1.4.3 (signed release). Sideload it onto your TV device.
+Direct APK link (always points to the latest release — never goes stale):
+
+```
+https://github.com/getw0rk3d/cantostv-tv-releases/releases/latest/download/CantosTV-AndroidTV.apk
+```
+
+> Signed release. The version number lives on the [Releases page](https://github.com/getw0rk3d/cantostv-tv-releases/releases) so this README never has to be bumped per version.
 
 ## Install on a TV device
 
@@ -24,6 +30,8 @@ adb install -r CantosTV-AndroidTV.apk
 
 After installing, open **CantosTV** from your TV's apps row and sign in with your
 playlist (Xtream host / username / password, or an M3U URL).
+
+Already installed? Update in-app via **Settings → Check for Updates**.
 
 ## Notes
 
