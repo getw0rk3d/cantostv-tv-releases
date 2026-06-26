@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.4.5",
+  "versionCode": 12,
+  "versionName": "1.4.6",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "3226056ebb1973bdf01a6863cb5ef357a65faae54bad6edf25ee03ef6ec4656e",
-  "releaseNotes": "Locking several folders at once is easier: choose 'Select multiple to lock' and tick folders right where you're browsing — the Lock button now stays pinned at the top, so there's no scrolling to the bottom of a long list. Works on Movies, Series, and Live TV. Update from Settings -> Check for Updates."
+  "sha256": "d293f4e6e3bd969ea43f797df1078b5788bd7a84cd66a4e6613cbb49db9484d5",
+  "releaseNotes": "New: a 'Recently Watched' folder in Live TV (long-press it to clear, or long-press a channel to remove it). Multi-Screen now opens the channel picker right on the channel that pane is already playing. Pressing Left from the posters/channels goes back to the folder you were on. Double-press OK to play/pause no longer pops the controls out. Live channels now auto-reconnect if they drop (manual Resync still works). Update from Settings -> Check for Updates."
 }
