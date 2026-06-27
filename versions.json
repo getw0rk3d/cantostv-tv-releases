@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.4.7",
+  "versionCode": 14,
+  "versionName": "1.4.8",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "f4425c501bd21dab110230f2e1716014d5acc62cbb656760fd6697e23f6bd6bf",
-  "releaseNotes": "Home Continue Watching now shows Movies + Series only (Live TV keeps its own recent list in the Live TV tab). Pressing Right from a folder lands on the first item, not the middle. Pressing Back from something you were watching returns you to that exact poster/channel instead of the top. And 'More like this' opens in place, so Back takes you home in one step. Update from Settings -> Check for Updates."
+  "sha256": "c6d8b6d886d10d9cf80cd430ec7df1cc2cd9a1980e13b3ca8fd86895d67c55b5",
+  "releaseNotes": "Watching on the TV no longer blocks the phone app: Multi-Screen frees its live connections when sent to the background and restores them when you return. Double-press OK on a movie or show now toggles play/pause cleanly with no menu popping out. Fast-scrolling with the Down button no longer jumps you back to the top of a list while posters are still loading. And the Home Continue Watching is now split into separate Movies and Series rows. Update from Settings -> Check for Updates."
 }
