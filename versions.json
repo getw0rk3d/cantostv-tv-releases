@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.4.6",
+  "versionCode": 13,
+  "versionName": "1.4.7",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d293f4e6e3bd969ea43f797df1078b5788bd7a84cd66a4e6613cbb49db9484d5",
-  "releaseNotes": "New: a 'Recently Watched' folder in Live TV (long-press it to clear, or long-press a channel to remove it). Multi-Screen now opens the channel picker right on the channel that pane is already playing. Pressing Left from the posters/channels goes back to the folder you were on. Double-press OK to play/pause no longer pops the controls out. Live channels now auto-reconnect if they drop (manual Resync still works). Update from Settings -> Check for Updates."
+  "sha256": "f4425c501bd21dab110230f2e1716014d5acc62cbb656760fd6697e23f6bd6bf",
+  "releaseNotes": "Home Continue Watching now shows Movies + Series only (Live TV keeps its own recent list in the Live TV tab). Pressing Right from a folder lands on the first item, not the middle. Pressing Back from something you were watching returns you to that exact poster/channel instead of the top. And 'More like this' opens in place, so Back takes you home in one step. Update from Settings -> Check for Updates."
 }
