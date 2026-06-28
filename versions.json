@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.4.12",
+  "versionCode": 19,
+  "versionName": "1.4.13",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "6f5f7ca4a2ce5438cc82dbab8ffc57fc67d6ac66e31d156f43920b0516237929",
-  "releaseNotes": "Search now scrolls smoothly: after you type, holding Down moves through the results without stalling or jumping back to the top. Same fix applied to the Multi-Screen channel picker. Update from Settings -> Check for Updates."
+  "sha256": "f277b2c5125b846294a7d375efe2c44a1f4f83a3ba29c5775513e1983891b33a",
+  "releaseNotes": "Scrolling in the lists now flows smoothly instead of jumping: the highlighted row stays put while the list glides under it. Applies to Search, the Multi-Screen channel picker, the Live TV channel list and folder menus, and the in-player channel/episode panel. Update from Settings -> Check for Updates."
 }
