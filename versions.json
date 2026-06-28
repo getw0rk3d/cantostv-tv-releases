@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.10",
+  "versionCode": 17,
+  "versionName": "1.4.11",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "991b5a6d3cb1c1d80242ce2db8b2c0297e20685d9c426ca2f80f0eeff190f799",
-  "releaseNotes": "On a movie or show, the OK button now toggles play/pause instantly with no transport menu popping out or stealing the next press. Press Down anytime to bring up the scrubber/menu. (Plus all the v1.4.9 fixes: phone/TV non-interference, fast-scroll focus, split Home Continue Watching.) Update from Settings -> Check for Updates."
+  "sha256": "63393936243107af57c26f9b7303d1cef79b1cf37bf25c090f0f1965ce0be31f",
+  "releaseNotes": "When the player's scrubber/menu is open (press Down to show it), the arrow keys and OK now move around the menu instead of seeking. With the menu hidden, Left/Right still seek and OK is play/pause. Update from Settings -> Check for Updates."
 }
