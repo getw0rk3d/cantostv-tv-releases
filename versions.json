@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.9",
+  "versionCode": 16,
+  "versionName": "1.4.10",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "3b7b8ba0291251e05576b220e84b2f04ec953c3a8500991b44a3c1da653e176b",
-  "releaseNotes": "Watching on the TV no longer blocks the phone app: Multi-Screen frees its live connections when sent to the background (even via the channel picker) and restores them when you return. Double-press OK on a movie or show toggles play/pause cleanly with no menu popping out. Fast-scrolling with the Down button no longer jumps you back to the top of a list while posters are still loading. The Home Continue Watching is split into separate Movies and Series rows. Plus internal memory and focus fixes. Update from Settings -> Check for Updates."
+  "sha256": "991b5a6d3cb1c1d80242ce2db8b2c0297e20685d9c426ca2f80f0eeff190f799",
+  "releaseNotes": "On a movie or show, the OK button now toggles play/pause instantly with no transport menu popping out or stealing the next press. Press Down anytime to bring up the scrubber/menu. (Plus all the v1.4.9 fixes: phone/TV non-interference, fast-scroll focus, split Home Continue Watching.) Update from Settings -> Check for Updates."
 }
