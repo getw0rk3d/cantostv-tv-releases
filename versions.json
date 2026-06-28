@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.4.14",
+  "versionCode": 21,
+  "versionName": "1.4.15",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "e5aea12f6928274c42ac55710c2eebba32222316e3cb26a6d1e7716f3f7da55a",
-  "releaseNotes": "Search in the Live TV, Movies and Series tabs now finds what you type: it searches the channels/movies/series themselves (not just folders), and the X button is now reachable to clear the text. Update from Settings -> Check for Updates."
+  "sha256": "3648c1665b73b3096f1973c921a76f0780d888f5da3c51734caf9ddf86c79b0a",
+  "releaseNotes": "Tab search now works the way it should: type to find a folder, open it, and the search then looks inside that folder for the channel/movie/series (open the All folder to search everything). The X clears the text and steps back to folder search. Update from Settings -> Check for Updates."
 }
