@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.4.15",
+  "versionCode": 22,
+  "versionName": "1.4.16",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "3648c1665b73b3096f1973c921a76f0780d888f5da3c51734caf9ddf86c79b0a",
-  "releaseNotes": "Tab search now works the way it should: type to find a folder, open it, and the search then looks inside that folder for the channel/movie/series (open the All folder to search everything). The X clears the text and steps back to folder search. Update from Settings -> Check for Updates."
+  "sha256": "543bd1d45364e330fc8adf7afaa515c1bd6389cd9f10bdfdc431e73c0e80972c",
+  "releaseNotes": "Movies now play on the first press: a movie that fails to start now retries on its own instead of needing Back then Play again. Tab search: after you open a folder and search inside it, pressing Left from the results returns you to that folder so you can switch folders or search again - and opening a folder now puts you straight on its posters. Update from Settings -> Check for Updates."
 }
