@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.4.16",
+  "versionCode": 23,
+  "versionName": "1.4.17",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "543bd1d45364e330fc8adf7afaa515c1bd6389cd9f10bdfdc431e73c0e80972c",
-  "releaseNotes": "Movies now play on the first press: a movie that fails to start now retries on its own instead of needing Back then Play again. Tab search: after you open a folder and search inside it, pressing Left from the results returns you to that folder so you can switch folders or search again - and opening a folder now puts you straight on its posters. Update from Settings -> Check for Updates."
+  "sha256": "5a9d6c73f493fb0a0ee0b857f546de0a2b8fb763a3bb8dcd6d883ac08e9d6a9c",
+  "releaseNotes": "Searching inside a folder is now reliable. The search stays locked to the folder you opened even while you move up to the search box, your typed results are no longer wiped when you move down to them, and pressing Down from the search box jumps straight to the results. Back now cancels the search instead of leaving the tab. Works on Movies, Series, and Live TV. Update from Settings -> Check for Updates."
 }
