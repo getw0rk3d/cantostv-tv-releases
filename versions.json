@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.4.18",
+  "versionCode": 25,
+  "versionName": "1.4.19",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "896a14946980c506a01f3ec79b68d898ead3de8ca28931f75c5caad97aeda9f3",
-  "releaseNotes": "Opening a folder now puts you on the search box, so you can search inside that folder right away without scrolling back up to it. Press Down from the search box to browse the folder's titles. Works on Movies, Series, and Live TV. Update from Settings -> Check for Updates."
+  "sha256": "fb5b912c3a00c49f97c7a12bd450fac6e9366cbf7e83a84c4ce385841e4f984b",
+  "releaseNotes": "Fixes playback that stopped working (Server error 502). The app now connects to the host that works and automatically moves your saved playlist over - no re-login needed. Manage multiple accounts under Home - Playlists (OK to switch, hold OK to delete). Update from Settings - Check for Updates."
 }
