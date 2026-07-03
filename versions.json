@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.4.19",
+  "versionCode": 26,
+  "versionName": "1.4.20",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "fb5b912c3a00c49f97c7a12bd450fac6e9366cbf7e83a84c4ce385841e4f984b",
-  "releaseNotes": "Fixes playback that stopped working (Server error 502). The app now connects to the host that works and automatically moves your saved playlist over - no re-login needed. Manage multiple accounts under Home - Playlists (OK to switch, hold OK to delete). Update from Settings - Check for Updates."
+  "sha256": "7291c92f913707c86ff535fa4b0778a263206b18d671c18fc0e26a04cc8dded4",
+  "releaseNotes": "Stability fixes: locking a folder while searching inside it no longer traps the Back button, leaving the channel picker while it is still loading no longer closes the app, searching right as the catalog refreshes no longer crashes, and Continue Watching can no longer lose your place when saving. Update from Settings - Check for Updates."
 }
