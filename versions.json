@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.4.22",
+  "versionCode": 29,
+  "versionName": "1.4.23",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "635c621611193c2a72fa7f48f7254c52ee67c42e98a2681031396037a06cfb7b",
-  "releaseNotes": "Account and playlist fixes: switching playlists can no longer show the previous account's catalog or expiry date; a connection hiccup during a background refresh can no longer blank your folder list; M3U playlists now sign in automatically on launch; Continue Watching items from before the server change now play again and keep your place; editing a saved playlist no longer switches you onto it or renames it; deleting the playlist in use now asks you to switch first. Update from Settings - Check for Updates."
+  "sha256": "b9491d5927fccff665eb7b57c29d116d530dfb13515828c7c3447475a428cbbf",
+  "releaseNotes": "Live TV channel switching: while watching a channel, press RIGHT on the remote to jump to the next channel in the folder and LEFT to go back, wrapping at the ends - just like a normal TV. The channel name appears briefly when you switch. Also: the player menus, Search screen and error messages are now fully translated to Spanish, plus assorted translation polish. Update from Settings - Check for Updates."
 }
