@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.4.24",
+  "versionCode": 31,
+  "versionName": "1.4.25",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "91289fb4794e17edcb2af6232d3aacba8edd09dfbd5c5e47003c6394b5c169e4",
-  "releaseNotes": "Faster search: selecting a folder in Live TV, Movies or Series now opens the keyboard automatically so you can type right away - no extra OK press needed. Press Back to close the keyboard and browse the list instead. Update from Settings - Check for Updates."
+  "sha256": "dbeffa25317cbaa9998b3f80faac5b2b3c6587f0c6ea8c32e8dedcc2f296844b",
+  "releaseNotes": "Continue Watching + Favorites folders: each tab (Live TV, Movies, Series) now has a Continue Watching folder and a Favorites folder pinned at the top. Long-press a Continue Watching poster to remove it, or long-press the folder to clear all. Folder names now follow the app language when you switch it. Update from Settings - Check for Updates."
 }
