@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.25",
+  "versionCode": 32,
+  "versionName": "1.4.26",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "dbeffa25317cbaa9998b3f80faac5b2b3c6587f0c6ea8c32e8dedcc2f296844b",
-  "releaseNotes": "Continue Watching + Favorites folders: each tab (Live TV, Movies, Series) now has a Continue Watching folder and a Favorites folder pinned at the top. Long-press a Continue Watching poster to remove it, or long-press the folder to clear all. Folder names now follow the app language when you switch it. Update from Settings - Check for Updates."
+  "sha256": "d434b7548ac21e81cd2b0bd7c0eaf1cbb9dfe0d9637df2414b1e10f002ce907c",
+  "releaseNotes": "Small polish: the Continue Watching clear-everything button now reads Clear All. Update from Settings - Check for Updates."
 }
