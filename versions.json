@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.4.27",
+  "versionCode": 34,
+  "versionName": "1.4.28",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "7fe9e0b924d21407e9cce96b0cf7b2d9ec37e1b16a13e6e9aa59ec9654301a9d",
-  "releaseNotes": "Live TV: the Channels list search now searches inside the folder you're in (and the folder list when browsing folders). Multi-Screen: the channel name now auto-hides and reappears when you press a remote button; panes that lose signal reconnect on their own; switching a pane frees its old connection; and picking a channel reliably plays its audio. Update from Settings - Check for Updates."
+  "sha256": "b431143da73150b7cda1709b8d17e887b85d9c106049f4c216e3ef4bdce7fc68",
+  "releaseNotes": "Continue Watching now starts faster: resuming a movie or episode buffers straight to your saved spot instead of loading twice, and no longer drops and reconnects while it starts. Update from Settings - Check for Updates."
 }
