@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "1.4.28",
+  "versionCode": 35,
+  "versionName": "1.4.29",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "b431143da73150b7cda1709b8d17e887b85d9c106049f4c216e3ef4bdce7fc68",
-  "releaseNotes": "Continue Watching now starts faster: resuming a movie or episode buffers straight to your saved spot instead of loading twice, and no longer drops and reconnects while it starts. Update from Settings - Check for Updates."
+  "sha256": "caad706c88dcf1ad590419afe81cdca76daa15737af9de6d8750b5b64edd48a6",
+  "releaseNotes": "Series & trailers: pressing Play on a series now resumes the exact episode you were watching, right where you left off - even mid-season; the episode list shows the resume time on episodes you haven't finished; the Trailer button opens the actual trailer instead of a YouTube search; and picking an audio track or subtitle now applies instantly when you press OK, no scrolling to a separate button. Update from Settings - Check for Updates."
 }
