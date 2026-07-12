@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.4.30",
+  "versionCode": 37,
+  "versionName": "1.4.31",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "51f1b46af9ea59b7d9a6791d7befe7028c538cb6093e7e419fc1af2c9b12246c",
-  "releaseNotes": "Audio & subtitles: the track picker now shows the actual language (English, Spanish, Japanese…) instead of 'Stereo', with a 5.1/7.1 label only for surround tracks. Update from Settings - Check for Updates."
+  "sha256": "8693a78ee2e6bfabd5beb94b7916f7b4cc2fa07bf0b5f6ff6bfc90ce5cb967b9",
+  "releaseNotes": "Fixes Live TV not working after you close and reopen the app. Smoother, more reliable playback (updated video engine). Polished focus animations and a cleaner app icon. Update from Settings - Check for Updates."
 }
