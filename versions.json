@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.4.31",
+  "versionCode": 38,
+  "versionName": "1.4.32",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "8693a78ee2e6bfabd5beb94b7916f7b4cc2fa07bf0b5f6ff6bfc90ce5cb967b9",
-  "releaseNotes": "Fixes Live TV not working after you close and reopen the app. Smoother, more reliable playback (updated video engine). Polished focus animations and a cleaner app icon. Update from Settings - Check for Updates."
+  "sha256": "db81d54551dce34af341fe59bd9ccfbd183fda24d66c8cfd496d4916cb9e59e0",
+  "releaseNotes": "New cleaner app logo. Series details no longer cut off at the bottom. Live TV shows full channel names. Update from Settings - Check for Updates."
 }
