@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.4.34",
+  "versionCode": 41,
+  "versionName": "1.4.35",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "a5c07474095dcf458f0c7abff66c6d0c959d1d0de879f13edb879debcfb50aed",
-  "releaseNotes": "Movies now start faster (less waiting before playback). Plus an app-logo fix for Fire TV. Update from Settings - Check for Updates."
+  "sha256": "a31a0ccabd74d84822bfb418bbcca54e0293bce0b4b91a4f6adbed8a141b7dad",
+  "releaseNotes": "On-screen keyboard now uses your TV's own keyboard (Gboard) and pops up when you open Search. Clearer message if the provider blocks a movie or series (usually a VPN/proxy on the TV). Update from Settings - Check for Updates."
 }
