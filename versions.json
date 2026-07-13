@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.4.33",
+  "versionCode": 40,
+  "versionName": "1.4.34",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "2712950a53682de9d866dd020ff43d0570df11e1b174f7dc44f78002b89c196e",
-  "releaseNotes": "You can now type with the remote using the app's own on-screen keyboard, even if your TV defaults to the 'type on your phone' keyboard. Update from Settings - Check for Updates."
+  "sha256": "a5c07474095dcf458f0c7abff66c6d0c959d1d0de879f13edb879debcfb50aed",
+  "releaseNotes": "Movies now start faster (less waiting before playback). Plus an app-logo fix for Fire TV. Update from Settings - Check for Updates."
 }
