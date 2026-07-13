@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.4.36",
+  "versionCode": 43,
+  "versionName": "1.4.37",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "bd9ff9e6f2e3a89c7253b6d7f1c03923fe72ee3a38b628e0c486e2504291be09",
-  "releaseNotes": "Opening a folder in Live TV, Movies or Series now pops the keyboard automatically so you can search inside it right away. Press Back to close the keyboard and browse the folder instead. Update from Settings - Check for Updates."
+  "sha256": "5c947875d0a352408dfb572bca2bfbac89a1758255bea01e8cfdf326d5c27609",
+  "releaseNotes": "Each playlist now keeps its OWN Favorites, Continue Watching and locked items — switching accounts no longer mixes them up (your PIN stays shared). The login keyboard's OK now moves to the next field and signs in on the last one. And you'll see an 'Updating your content' note while the app refreshes your catalog. Update from Settings - Check for Updates."
 }
