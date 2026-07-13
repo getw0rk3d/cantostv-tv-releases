@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.4.32",
+  "versionCode": 39,
+  "versionName": "1.4.33",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "db81d54551dce34af341fe59bd9ccfbd183fda24d66c8cfd496d4916cb9e59e0",
-  "releaseNotes": "New cleaner app logo. Series details no longer cut off at the bottom. Live TV shows full channel names. Update from Settings - Check for Updates."
+  "sha256": "2712950a53682de9d866dd020ff43d0570df11e1b174f7dc44f78002b89c196e",
+  "releaseNotes": "You can now type with the remote using the app's own on-screen keyboard, even if your TV defaults to the 'type on your phone' keyboard. Update from Settings - Check for Updates."
 }
