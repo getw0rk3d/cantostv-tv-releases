@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.4.35",
+  "versionCode": 42,
+  "versionName": "1.4.36",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "a31a0ccabd74d84822bfb418bbcca54e0293bce0b4b91a4f6adbed8a141b7dad",
-  "releaseNotes": "On-screen keyboard now uses your TV's own keyboard (Gboard) and pops up when you open Search. Clearer message if the provider blocks a movie or series (usually a VPN/proxy on the TV). Update from Settings - Check for Updates."
+  "sha256": "bd9ff9e6f2e3a89c7253b6d7f1c03923fe72ee3a38b628e0c486e2504291be09",
+  "releaseNotes": "Opening a folder in Live TV, Movies or Series now pops the keyboard automatically so you can search inside it right away. Press Back to close the keyboard and browse the folder instead. Update from Settings - Check for Updates."
 }
