@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.4.38",
+  "versionCode": 45,
+  "versionName": "1.4.39",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "564e897ddc7b469068ddb2a1186bc536f37119b92635467c638e7c7c82086c74",
-  "releaseNotes": "Multi-Screen now remembers your last layout and channels. Reopen Multi-Screen and choose 'Resume last' to jump right back to the panes you were watching. Update from Settings - Check for Updates."
+  "sha256": "ff1fdee95985697f5d486ec36eaac50f4d128c49450007be801f886a8a1528f3",
+  "releaseNotes": "More reliable in-app update prompts so you always get the latest version, plus stability improvements. Update from Settings - Check for Updates."
 }
