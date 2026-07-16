@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.4.39",
+  "versionCode": 46,
+  "versionName": "1.4.40",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "ff1fdee95985697f5d486ec36eaac50f4d128c49450007be801f886a8a1528f3",
-  "releaseNotes": "More reliable in-app update prompts so you always get the latest version, plus stability improvements. Update from Settings - Check for Updates."
+  "sha256": "548df60e0f11bb2d61b4b03dd6ea2b533fd7f554e84d93a94898abecbe087f33",
+  "releaseNotes": "New CANTOS TV app logo. Movies and Series now retry on a hiccup and show a Retry button instead of an error. Movie/Series seeking recovers if it freezes. Update prompts appear faster. Update from Settings - Check for Updates."
 }
