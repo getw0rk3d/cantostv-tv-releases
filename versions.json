@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.4.40",
+  "versionCode": 47,
+  "versionName": "1.4.41",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "548df60e0f11bb2d61b4b03dd6ea2b533fd7f554e84d93a94898abecbe087f33",
-  "releaseNotes": "New CANTOS TV app logo. Movies and Series now retry on a hiccup and show a Retry button instead of an error. Movie/Series seeking recovers if it freezes. Update prompts appear faster. Update from Settings - Check for Updates."
+  "sha256": "da60d094f932bdfe049b4832308c64f89128960cbbd4cf638feaead4f1709632",
+  "releaseNotes": "Recommended movies (More like this) now open on top, so Back returns to the movie you opened first. The Trailer button lets you choose which YouTube app to use when you have more than one. Search remembers your recent searches - tap one to repeat it, X to remove a single entry, or Clear all to wipe the list. Update from Settings - Check for Updates."
 }
