@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.4.43",
+  "versionCode": 50,
+  "versionName": "1.4.44",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "92e701a2cc0eeedf50f69079dd888188fe8b9296048d042ed537542bb22e428f",
-  "releaseNotes": "Fixes Fire TV keyboard problems from the last update: Search no longer opens as a full-screen keyboard that hides the results (type, then press Search/OK to browse); the login keyboard now closes when you sign in so you can see Connecting/errors; and the password is hidden as dots instead of shown in plain text. Update from Settings - Check for Updates."
+  "sha256": "0874bbf0e0f121e0ea81481f8ad815f2f6d8097c74aaf6b099e54d33aebd2819",
+  "releaseNotes": "Login: the Xtream/M3U selector no longer switches (and hides the username/password fields) just by moving the remote across it - it only switches when you press OK. Pressing Back also closes the on-screen keyboard where the device allows it. Update from Settings - Check for Updates."
 }
