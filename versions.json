@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "1.4.42",
+  "versionCode": 49,
+  "versionName": "1.4.43",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "88f569825f02b719912573db5a3190890f92325585aacaa8c83420bae3d04ffe",
-  "releaseNotes": "Fixes the on-screen keyboard not opening on Fire TV / Fire Stick - you can now type in the login and search fields with the remote. (Google TV / Chromecast was unaffected.) Update from Settings - Check for Updates."
+  "sha256": "92e701a2cc0eeedf50f69079dd888188fe8b9296048d042ed537542bb22e428f",
+  "releaseNotes": "Fixes Fire TV keyboard problems from the last update: Search no longer opens as a full-screen keyboard that hides the results (type, then press Search/OK to browse); the login keyboard now closes when you sign in so you can see Connecting/errors; and the password is hidden as dots instead of shown in plain text. Update from Settings - Check for Updates."
 }
