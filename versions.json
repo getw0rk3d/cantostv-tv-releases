@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.4.41",
+  "versionCode": 48,
+  "versionName": "1.4.42",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "da60d094f932bdfe049b4832308c64f89128960cbbd4cf638feaead4f1709632",
-  "releaseNotes": "Recommended movies (More like this) now open on top, so Back returns to the movie you opened first. The Trailer button lets you choose which YouTube app to use when you have more than one. Search remembers your recent searches - tap one to repeat it, X to remove a single entry, or Clear all to wipe the list. Update from Settings - Check for Updates."
+  "sha256": "88f569825f02b719912573db5a3190890f92325585aacaa8c83420bae3d04ffe",
+  "releaseNotes": "Fixes the on-screen keyboard not opening on Fire TV / Fire Stick - you can now type in the login and search fields with the remote. (Google TV / Chromecast was unaffected.) Update from Settings - Check for Updates."
 }
