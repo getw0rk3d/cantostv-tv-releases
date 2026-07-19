@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.4.45",
+  "versionCode": 52,
+  "versionName": "1.4.46",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "970766feb01ae43daf8e3f223c625a99e8366ad95dab2d574a0fe8257284768c",
-  "releaseNotes": "Fire TV: opening a Live TV / Movies / Series folder no longer covers the list with the full-screen keyboard - the grid stays visible and you press OK to search. Recommendations no longer repeat the same title twice, and long More-like-this chains no longer pile up screens (which could slow down or crash smaller devices). Update from Settings - Check for Updates."
+  "sha256": "aa3b16936e8d6859ec080a231b1f180f8c2bd1e80cd235f75160c060a6b9ba60",
+  "releaseNotes": "Channel and movie lists now pick up renames and newly added or removed titles instead of going stale for the session (which could leave dead entries that fail to play). Fixed the folder sidebar disappearing when the provider half-answers a refresh. When a channel is off the air or all your connections are in use, the player now tells you instead of silently retrying for five minutes and tying up connections on your other devices. Playback now pauses for other apps that need audio. Update from Settings - Check for Updates."
 }
