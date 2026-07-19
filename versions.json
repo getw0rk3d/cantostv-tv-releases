@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.4.44",
+  "versionCode": 51,
+  "versionName": "1.4.45",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "0874bbf0e0f121e0ea81481f8ad815f2f6d8097c74aaf6b099e54d33aebd2819",
-  "releaseNotes": "Login: the Xtream/M3U selector no longer switches (and hides the username/password fields) just by moving the remote across it - it only switches when you press OK. Pressing Back also closes the on-screen keyboard where the device allows it. Update from Settings - Check for Updates."
+  "sha256": "970766feb01ae43daf8e3f223c625a99e8366ad95dab2d574a0fe8257284768c",
+  "releaseNotes": "Fire TV: opening a Live TV / Movies / Series folder no longer covers the list with the full-screen keyboard - the grid stays visible and you press OK to search. Recommendations no longer repeat the same title twice, and long More-like-this chains no longer pile up screens (which could slow down or crash smaller devices). Update from Settings - Check for Updates."
 }
