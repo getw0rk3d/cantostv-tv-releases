@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.4.46",
+  "versionCode": 53,
+  "versionName": "1.4.47",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "aa3b16936e8d6859ec080a231b1f180f8c2bd1e80cd235f75160c060a6b9ba60",
-  "releaseNotes": "Channel and movie lists now pick up renames and newly added or removed titles instead of going stale for the session (which could leave dead entries that fail to play). Fixed the folder sidebar disappearing when the provider half-answers a refresh. When a channel is off the air or all your connections are in use, the player now tells you instead of silently retrying for five minutes and tying up connections on your other devices. Playback now pauses for other apps that need audio. Update from Settings - Check for Updates."
+  "sha256": "a850e8c94a1de2267fa7d885d1c2c439143e24dde06ad8e3212c03b9e75e8e20",
+  "releaseNotes": "Player fixes: leaving the app near the end of a movie no longer restarts it from the beginning (it moves on to the next episode instead), and your resume point can no longer be lost when you jump out and straight back in. The fast-forward/rewind display no longer gets stuck on screen or carry a stale position into the next episode. Recovery on slow connections no longer buffers twice, and the Track/Speed/Buffer menus no longer stop working after you leave and come back. Update from Settings - Check for Updates."
 }
