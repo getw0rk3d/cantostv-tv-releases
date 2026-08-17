@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.4.47",
+  "versionCode": 67,
+  "versionName": "1.4.61",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "a850e8c94a1de2267fa7d885d1c2c439143e24dde06ad8e3212c03b9e75e8e20",
-  "releaseNotes": "Player fixes: leaving the app near the end of a movie no longer restarts it from the beginning (it moves on to the next episode instead), and your resume point can no longer be lost when you jump out and straight back in. The fast-forward/rewind display no longer gets stuck on screen or carry a stale position into the next episode. Recovery on slow connections no longer buffers twice, and the Track/Speed/Buffer menus no longer stop working after you leave and come back. Update from Settings - Check for Updates."
+  "sha256": "99a618e319f94a2136d13e4f5f777469f70401c8d717184901fcab2eccf5dceb",
+  "releaseNotes": "Series: the show page is rebuilt around the artwork, seasons step one at a time instead of jumping, and the episode list scrolls smoothly. Episode rows now show the episode's own name and a tick when watched. Continue Watching opens the same full player as the show page, with Previous and Next episode buttons. Hold an episode to mark it watched or unwatched, or to remove it from Continue Watching. Subtitles: the season and episode boxes are filled in automatically, and when a Spanish title finds nothing the search retries with the English release title. Cloud sync: changes on your phone now appear here within a second while you are browsing. You can switch cloud accounts or add another, and a cleared device keeps a copy you can restore. A stream that will not play now says so instead of showing a black screen. Update from Settings - Check for Updates."
 }
