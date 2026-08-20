@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.4.61",
+  "versionCode": 68,
+  "versionName": "1.4.62",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "99a618e319f94a2136d13e4f5f777469f70401c8d717184901fcab2eccf5dceb",
-  "releaseNotes": "Series: the show page is rebuilt around the artwork, seasons step one at a time instead of jumping, and the episode list scrolls smoothly. Episode rows now show the episode's own name and a tick when watched. Continue Watching opens the same full player as the show page, with Previous and Next episode buttons. Hold an episode to mark it watched or unwatched, or to remove it from Continue Watching. Subtitles: the season and episode boxes are filled in automatically, and when a Spanish title finds nothing the search retries with the English release title. Cloud sync: changes on your phone now appear here within a second while you are browsing. You can switch cloud accounts or add another, and a cleared device keeps a copy you can restore. A stream that will not play now says so instead of showing a black screen. Update from Settings - Check for Updates."
+  "sha256": "78b7cdc0c40c6a1f3b14cf9a51c5604ebdff4a48896ad9bfbd38725fbf7ab075",
+  "releaseNotes": "Subtitles now find the right film or episode: the app was searching by title, which returned thousands of unrelated results or none at all for a Spanish name, and now asks by the title's own id. A second subtitle site, SubDL, has been added for wider coverage. Watched ticks now agree with your phone - finishing an episode here no longer removes it from your other devices, and both apps use the same watched rule. Hold a movie poster to mark it watched or unwatched. The app also re-syncs with the cloud whenever you come back to it, not just on a cold start. Update from Settings - Check for Updates."
 }
