@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.4.63",
+  "versionCode": 71,
+  "versionName": "1.4.65",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "689d45e9df8255ae434e7dfa67096f384f9ea709673270bd13aedfeedbc7660d",
-  "releaseNotes": "Subtitle fixes for series: when a subtitle file covers a whole season, the app now picks the episode you are actually watching instead of the first one, and files in a format it cannot open are reported clearly instead of failing oddly. Includes 1.4.62: subtitles are now found by the title's own id rather than its name (a Spanish name returned thousands of wrong results or none at all), a second subtitle site has been added, watched ticks agree with your phone, hold a movie poster to mark it watched, and the app re-syncs whenever you come back to it. Update from Settings - Check for Updates."
+  "sha256": "cba998b94714ace420a9be86b37d6afc5a57804d126f530d74802f13cd6a3226",
+  "releaseNotes": "Fixes cloud sync losing your place. Every sync was clearing the resume position of anything you had not finished, so a film or episode you left partway through on your phone started from the beginning here. It now keeps the position, and the show page offers Resume instead of Play. A stream that fails to load is no longer recorded as watched, and the app no longer syncs before its channel list has loaded, which could replace channel names with numbers on your other devices. Update from Settings - Check for Updates."
 }
