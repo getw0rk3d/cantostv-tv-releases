@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.4.66",
+  "versionCode": 73,
+  "versionName": "1.4.67",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "aed21c504d9534dff6af1004d749126432bd5b448811c758c25deb0ed1b7c77c",
-  "releaseNotes": "Fixes cloud sync losing your place. Anything you had not finished could have its resume position cleared when the app synced, so a film or episode you left partway through on your phone started from the beginning here. Verified across repeated syncs: your place now stays put and the show page offers Resume. A stream that fails to load is no longer recorded as watched, and the app no longer syncs before its channel list has loaded, which could replace channel names with numbers on your other devices. Update from Settings - Check for Updates."
+  "sha256": "798fc0f3314a29d1271dfc64fe5a2339eac6fd6d4a19d126819ccc6b8c6ea6bc",
+  "releaseNotes": "Hold a card in Continue Watching to mark it watched or unwatched, alongside Remove. Includes 1.4.66: cloud sync no longer clears your place in anything you had not finished, so a film or episode you left partway through on your phone resumes here instead of starting over. A stream that fails to load is no longer recorded as watched, and the app waits for its channel list before syncing, which could otherwise replace channel names with numbers on your other devices. Update from Settings - Check for Updates."
 }
