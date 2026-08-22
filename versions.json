@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.4.69",
+  "versionCode": 76,
+  "versionName": "1.4.70",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "52d754c79713e8ca92da2a288928435f9cd6ec1266ac484acb0fd4c1d8f05eec",
-  "releaseNotes": "Returning to the home screen now also asks for an update from the cloud, so a device that lost its live connection refreshes instead of quietly showing old information. Update from Settings - Check for Updates."
+  "sha256": "fbbc067b5d90fc824699833856655dfef6ebef4a91376ddd9f9cd23494039fc8",
+  "releaseNotes": "Settings - Cloud Sync now shows when your library last synced and whether the live connection is up, so you can tell at a glance instead of guessing, and a failed attempt shows the reason. Includes 1.4.69: returning to the home screen also asks for an update from the cloud. Update from Settings - Check for Updates."
 }
