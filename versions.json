@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.4.67",
+  "versionCode": 74,
+  "versionName": "1.4.68",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "798fc0f3314a29d1271dfc64fe5a2339eac6fd6d4a19d126819ccc6b8c6ea6bc",
-  "releaseNotes": "Hold a card in Continue Watching to mark it watched or unwatched, alongside Remove. Includes 1.4.66: cloud sync no longer clears your place in anything you had not finished, so a film or episode you left partway through on your phone resumes here instead of starting over. A stream that fails to load is no longer recorded as watched, and the app waits for its channel list before syncing, which could otherwise replace channel names with numbers on your other devices. Update from Settings - Check for Updates."
+  "sha256": "8d7fae4c0f65e74bf16f96b8fcc8bff6ade7eed01a398df1fd7485ae075d69bf",
+  "releaseNotes": "Restores subtitle matching. The service key the app used to identify films and shows was replaced, so older versions can no longer look them up and subtitle search falls back to matching by name, which is far less accurate. Update to keep accurate subtitle results. Update from Settings - Check for Updates."
 }
