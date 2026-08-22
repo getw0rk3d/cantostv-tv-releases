@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.4.68",
+  "versionCode": 75,
+  "versionName": "1.4.69",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "8d7fae4c0f65e74bf16f96b8fcc8bff6ade7eed01a398df1fd7485ae075d69bf",
-  "releaseNotes": "Restores subtitle matching. The service key the app used to identify films and shows was replaced, so older versions can no longer look them up and subtitle search falls back to matching by name, which is far less accurate. Update to keep accurate subtitle results. Update from Settings - Check for Updates."
+  "sha256": "52d754c79713e8ca92da2a288928435f9cd6ec1266ac484acb0fd4c1d8f05eec",
+  "releaseNotes": "Returning to the home screen now also asks for an update from the cloud, so a device that lost its live connection refreshes instead of quietly showing old information. Update from Settings - Check for Updates."
 }
