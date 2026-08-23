@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "1.4.70",
+  "versionCode": 77,
+  "versionName": "1.4.71",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "fbbc067b5d90fc824699833856655dfef6ebef4a91376ddd9f9cd23494039fc8",
-  "releaseNotes": "Settings - Cloud Sync now shows when your library last synced and whether the live connection is up, so you can tell at a glance instead of guessing, and a failed attempt shows the reason. Includes 1.4.69: returning to the home screen also asks for an update from the cloud. Update from Settings - Check for Updates."
+  "sha256": "2d98978df920db7d6390daf1d1565f1c5a8ea72e986c3578f869de516815bc8a",
+  "releaseNotes": "Clearer message when movies or series will not play because this TV is behind a VPN or proxy. It now leads with what to change and points at your router, where the VPN is usually set, instead of opening with Blocked by the provider - which read like an outage on their end when the fix is on your network. Your account is never the problem in this case, and the message now says so. Same wording on the Movies and Series screens. Update from Settings - Check for Updates."
 }
