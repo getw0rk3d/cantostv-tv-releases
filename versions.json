@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.4.72",
+  "versionCode": 79,
+  "versionName": "1.4.73",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d780192c18681fbb3a85ba89ef069efae604d285ddbd55ec26ea4ba1d6c9c9e0",
-  "releaseNotes": "Continue Watching - Live now updates its channel names and logos as soon as the channel list finishes refreshing in the background, instead of waiting until you next open the screen. The app also syncs your library with the cloud once the catalog has finished loading rather than on a fixed timer, which is the point where it can name what it is syncing. Update from Settings - Check for Updates."
+  "sha256": "b93eb163855d43e983225fbe6ec2ba39dbb2008ac6ad0842df7f8eac31a8623e",
+  "releaseNotes": "Subtitle search now finds titles listed in Spanish. It looks up the English release name before falling back to the raw title, because a Spanish title returns thousands of confident but wrong matches rather than none - so the wrong list used to win. New in Settings: Auto subtitles for series, off by default, which loads English or Spanish subtitles automatically as each episode starts. Update from Settings - Check for Updates."
 }
