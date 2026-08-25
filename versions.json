@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "1.4.73",
+  "versionCode": 80,
+  "versionName": "1.4.74",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "b93eb163855d43e983225fbe6ec2ba39dbb2008ac6ad0842df7f8eac31a8623e",
-  "releaseNotes": "Subtitle search now finds titles listed in Spanish. It looks up the English release name before falling back to the raw title, because a Spanish title returns thousands of confident but wrong matches rather than none - so the wrong list used to win. New in Settings: Auto subtitles for series, off by default, which loads English or Spanish subtitles automatically as each episode starts. Update from Settings - Check for Updates."
+  "sha256": "16629083e7c40e2c5de21531d12e049b4e0f8b9701c95f989dc04421918a6849",
+  "releaseNotes": "Fixes automatic subtitles being lost when you come back to an episode. Returning from the home screen, pressing Resync or changing the buffer reloads the episode, and that used to clear the subtitles and then refuse to put them back for the rest of the episode. They are now restored. A search that finds nothing also no longer repeats itself on every reload. Update from Settings - Check for Updates."
 }
