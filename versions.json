@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "1.4.74",
+  "versionCode": 81,
+  "versionName": "1.4.75",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "16629083e7c40e2c5de21531d12e049b4e0f8b9701c95f989dc04421918a6849",
-  "releaseNotes": "Fixes automatic subtitles being lost when you come back to an episode. Returning from the home screen, pressing Resync or changing the buffer reloads the episode, and that used to clear the subtitles and then refuse to put them back for the rest of the episode. They are now restored. A search that finds nothing also no longer repeats itself on every reload. Update from Settings - Check for Updates."
+  "sha256": "89d9843d6901d02db3c42ba51915204e7be067ebcd39c941010618ef755ef72a",
+  "releaseNotes": "Fixes your library losing rows when the phone and the TV are used on the same account at the same time. Both devices used to read and then overwrite the same cloud record, so whichever saved second erased the other one, and Continue Watching entries could disappear. Saving is now atomic. Continue Watching also keeps the length of a show, so cards stop losing their progress bar and their time remaining, and the TV no longer uploads a fresh copy on every sync. Update from Settings - Check for Updates."
 }
