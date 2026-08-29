@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "1.4.75",
+  "versionCode": 82,
+  "versionName": "1.4.76",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "89d9843d6901d02db3c42ba51915204e7be067ebcd39c941010618ef755ef72a",
-  "releaseNotes": "Fixes your library losing rows when the phone and the TV are used on the same account at the same time. Both devices used to read and then overwrite the same cloud record, so whichever saved second erased the other one, and Continue Watching entries could disappear. Saving is now atomic. Continue Watching also keeps the length of a show, so cards stop losing their progress bar and their time remaining, and the TV no longer uploads a fresh copy on every sync. Update from Settings - Check for Updates."
+  "sha256": "c29bea35920d7dbd1bce1311b546bacc655235a597273e47f8cb6c3dc8dd6e9a",
+  "releaseNotes": "Holding a poster now offers Description, so you can read what something is without opening it. Posters also stop hanging: a single stalled image download used to block every other poster behind it, leaving tiles blank, which showed up on some devices and not others. Continue Watching now updates as soon as another device changes something, instead of waiting for the app to be reopened. Update from Settings - Check for Updates."
 }
