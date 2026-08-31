@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "1.4.76",
+  "versionCode": 83,
+  "versionName": "1.4.77",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "c29bea35920d7dbd1bce1311b546bacc655235a597273e47f8cb6c3dc8dd6e9a",
-  "releaseNotes": "Holding a poster now offers Description, so you can read what something is without opening it. Posters also stop hanging: a single stalled image download used to block every other poster behind it, leaving tiles blank, which showed up on some devices and not others. Continue Watching now updates as soon as another device changes something, instead of waiting for the app to be reopened. Update from Settings - Check for Updates."
+  "sha256": "28e2f421c21571df63a5fda528399f6a5cdcad609cf15ca6274e7c337c8d67d9",
+  "releaseNotes": "Fixes one version of a show disappearing from Continue Watching when you watch two versions of the same title - the catalog lists some shows more than once, and the row was treating them as one. Channels and titles with no artwork now show a small panel with their initial instead of an empty box, so a missing logo no longer looks like a broken image. Update from Settings - Check for Updates."
 }
