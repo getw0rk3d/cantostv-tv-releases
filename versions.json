@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "1.4.77",
+  "versionCode": 91,
+  "versionName": "1.4.78",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "28e2f421c21571df63a5fda528399f6a5cdcad609cf15ca6274e7c337c8d67d9",
-  "releaseNotes": "Fixes one version of a show disappearing from Continue Watching when you watch two versions of the same title - the catalog lists some shows more than once, and the row was treating them as one. Channels and titles with no artwork now show a small panel with their initial instead of an empty box, so a missing logo no longer looks like a broken image. Update from Settings - Check for Updates."
+  "sha256": "0880c9ea937db5279d1e16b5365d340128d2f3ed8b74d7f3eb5f37d5030b99d0",
+  "releaseNotes": "Switching the audio track no longer makes the picture stutter or freeze - it now changes while the video keeps playing. For series, the audio language you pick is remembered, so the next episode stays in the language you chose until you change it again. Also fixes items disappearing from Continue Watching when the same account is used on more than one device: the list had a size limit that was being mistaken for you deleting something, which then removed it everywhere. Update from Settings - Check for Updates."
 }
