@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "1.4.79",
+  "versionCode": 93,
+  "versionName": "1.4.80",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "5469a9776315352e2be23a20c6fc220fa58795afe8f6af7e108e8606287e2ea1",
-  "releaseNotes": "Switching the audio track no longer makes the picture stutter or freeze - it changes while the video keeps playing. For series, the audio language you pick is remembered, so the next episode stays in the language you chose until you change it again. Also protects Continue Watching when the same account is used on more than one device: a size limit was being mistaken for you deleting things, which removed them everywhere, and a device that loses its own copy can no longer wipe the others. Update from Settings - Check for Updates."
+  "sha256": "548e4638429253bf2a96158708acb02fe6e9474d0c2ff4f3ce985deeafb3c5d0",
+  "releaseNotes": "Adds a Finished Watching folder to Movies and Series, next to Continue Watching and Favorites, holding everything you have completed. A movie moves there when you finish it or mark it watched; a series moves there once you have watched every episode. Live TV has no Finished folder because a channel never ends. Update from Settings - Check for Updates."
 }
