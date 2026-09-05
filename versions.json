@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "1.4.80",
+  "versionCode": 95,
+  "versionName": "1.4.81",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "548e4638429253bf2a96158708acb02fe6e9474d0c2ff4f3ce985deeafb3c5d0",
-  "releaseNotes": "Adds a Finished Watching folder to Movies and Series, next to Continue Watching and Favorites, holding everything you have completed. A movie moves there when you finish it or mark it watched; a series moves there once you have watched every episode. Live TV has no Finished folder because a channel never ends. Update from Settings - Check for Updates."
+  "sha256": "8f4bda3a7a38868bb67257d86a08738500b714b1484ea4e88be175e0a021e90c",
+  "releaseNotes": "Switching the audio track no longer flashes a loading spinner over the picture - the video keeps playing throughout. Fixes the Finished Watching folder, which could not fill up for series at all and was missing anything you marked watched on your phone. Update from Settings - Check for Updates."
 }
