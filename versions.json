@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "1.4.81",
+  "versionCode": 96,
+  "versionName": "1.4.82",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "8f4bda3a7a38868bb67257d86a08738500b714b1484ea4e88be175e0a021e90c",
-  "releaseNotes": "Switching the audio track no longer flashes a loading spinner over the picture - the video keeps playing throughout. Fixes the Finished Watching folder, which could not fill up for series at all and was missing anything you marked watched on your phone. Update from Settings - Check for Updates."
+  "sha256": "8083991bd3e8ca6746e5e27d6c3b32f00770aceb6da450dabb469def48c1b070",
+  "releaseNotes": "Fixes marking something as unwatched not sticking - the tick would clear and then come back later, because the change never reached the cloud. Also makes sure a change made just before you leave the app is not lost. Update from Settings - Check for Updates."
 }
