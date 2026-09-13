@@ -1,7 +1,7 @@
 {
-  "versionCode": 96,
-  "versionName": "1.4.82",
+  "versionCode": 101,
+  "versionName": "1.4.83",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "8083991bd3e8ca6746e5e27d6c3b32f00770aceb6da450dabb469def48c1b070",
-  "releaseNotes": "Fixes marking something as unwatched not sticking - the tick would clear and then come back later, because the change never reached the cloud. Also makes sure a change made just before you leave the app is not lost. Update from Settings - Check for Updates."
+  "sha256": "1ba47fc0f42bc92536fbb0dd8de543a3c70fbcb4b56b601ea1f0bd3ad59f7b32",
+  "releaseNotes": "Cloud sync is now instant and no longer loses what you were watching. Changes reach your other devices in about a second, a show or channel you remove stays removed, and a short read can no longer delete your Continue Watching, favourites or locks on every device. Also fixes a crash when searching recent channels during a sync. Update from Settings - Check for Updates."
 }
