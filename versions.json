@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.4.83",
+  "versionCode": 102,
+  "versionName": "1.4.84",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "1ba47fc0f42bc92536fbb0dd8de543a3c70fbcb4b56b601ea1f0bd3ad59f7b32",
-  "releaseNotes": "Cloud sync is now instant and no longer loses what you were watching. Changes reach your other devices in about a second, a show or channel you remove stays removed, and a short read can no longer delete your Continue Watching, favourites or locks on every device. Also fixes a crash when searching recent channels during a sync. Update from Settings - Check for Updates."
+  "sha256": "dbfb173b54675d4598146789fe035f80bf7243669e2454368bebdb581287079c",
+  "releaseNotes": "Re-watching the live channel at the top of your recent list now syncs it to your other devices as the most recent. Update from Settings - Check for Updates."
 }
