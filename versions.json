@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "1.4.86",
+  "versionCode": 105,
+  "versionName": "1.4.87",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "acf3d3b921eb72c15d207203f59f4aaf9e2d75cd94a0757b7169de53b4f5d569",
-  "releaseNotes": "Sync fixes: nothing you watch gets lost when you switch accounts or playlists, downloaded movies keep their place, and channel and movie lists load again after the provider changed how it sends them. Update from Settings - Check for Updates."
+  "sha256": "4074d8a1fd61a134a13c041a89fe07b20a9f61ede6903d3fc1d2b02a23fbd5dd",
+  "releaseNotes": "Posters no longer disappear from Continue Watching after resuming on the TV, cards never show another title's artwork, and removing something while a sync runs keeps it removed. Update from Settings - Check for Updates."
 }
