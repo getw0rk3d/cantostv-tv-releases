@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "1.4.87",
+  "versionCode": 106,
+  "versionName": "1.4.88",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "4074d8a1fd61a134a13c041a89fe07b20a9f61ede6903d3fc1d2b02a23fbd5dd",
-  "releaseNotes": "Posters no longer disappear from Continue Watching after resuming on the TV, cards never show another title's artwork, and removing something while a sync runs keeps it removed. Update from Settings - Check for Updates."
+  "sha256": "d8a415113cf40f01296632383e6d331ed721978e10493a6e0e34cc90b7998aed",
+  "releaseNotes": "Un-marking something as watched now clears it for the whole title, and episode thumbnails no longer borrow another episode's picture. Update from Settings - Check for Updates."
 }
