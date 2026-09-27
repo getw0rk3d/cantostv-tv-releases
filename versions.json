@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "1.4.88",
+  "versionCode": 107,
+  "versionName": "1.4.89",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d8a415113cf40f01296632383e6d331ed721978e10493a6e0e34cc90b7998aed",
-  "releaseNotes": "Un-marking something as watched now clears it for the whole title, and episode thumbnails no longer borrow another episode's picture. Update from Settings - Check for Updates."
+  "sha256": "2bc5e3698cc62e156e1ed48c44a4660f503a9dcb5a7d04848ea6b5a971225ba3",
+  "releaseNotes": "Movies and channels with no artwork no longer show a blank box - the tile now carries the title, and a channel with no logo shows its initial. A picture that fails to load looks the same as one that was never there, instead of looking broken. Update from Settings - Check for Updates."
 }
