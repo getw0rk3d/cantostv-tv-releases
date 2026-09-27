@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "1.4.89",
+  "versionCode": 108,
+  "versionName": "1.4.90",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "2bc5e3698cc62e156e1ed48c44a4660f503a9dcb5a7d04848ea6b5a971225ba3",
-  "releaseNotes": "Movies and channels with no artwork no longer show a blank box - the tile now carries the title, and a channel with no logo shows its initial. A picture that fails to load looks the same as one that was never there, instead of looking broken. Update from Settings - Check for Updates."
+  "sha256": "7315bfd94b12fa389ab42f10eca5026b07f1a04fe2c4ef166cae8316092fe7dd",
+  "releaseNotes": "Movies with no artwork now show their real poster instead of the title on a plate. The provider had the picture all along - it just wasn't in the catalogue listing - so the tile fetches it as you browse. Update from Settings - Check for Updates."
 }
