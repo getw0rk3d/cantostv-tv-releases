@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "1.4.92",
+  "versionCode": 111,
+  "versionName": "1.4.93",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "26754ab664cb4b3b783a9648a462d90fed009be356136583ed47ad7fda2a5bc2",
-  "releaseNotes": "The player menu now opens as one - press up or down and you get the options, the controls and the progress bar together. Subtitles stay off until you pick one. In the Channels and Episodes lists you can start typing, or press LEFT, to jump straight to the search box. Fixed: on the first episode of a season the menu opened with nothing selected. The Browse row on Home has been tidied up. Update from Settings - Check for Updates."
+  "sha256": "9af808dc5d744bf4ae565251016afc07ba1b5762a922eeb755ddd37a24a4c11a",
+  "releaseNotes": "When a film or the last episode ends, the player now offers to watch it again instead of closing - and something you have already finished starts from the beginning rather than the end. Channel logos in the Live TV rows now fit inside their box instead of being blown up and cropped. Update from Settings - Check for Updates."
 }
