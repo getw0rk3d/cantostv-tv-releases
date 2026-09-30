@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.4.93",
+  "versionCode": 112,
+  "versionName": "1.4.94",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "9af808dc5d744bf4ae565251016afc07ba1b5762a922eeb755ddd37a24a4c11a",
-  "releaseNotes": "When a film or the last episode ends, the player now offers to watch it again instead of closing - and something you have already finished starts from the beginning rather than the end. Channel logos in the Live TV rows now fit inside their box instead of being blown up and cropped. Update from Settings - Check for Updates."
+  "sha256": "384c9f47e73648d6737f7fc12d6af9811df9a42ef467dd84808b5c1fbfebb332",
+  "releaseNotes": "A movie or show you locked on another device no longer sits in Continue Watching on the Home screen - the lock reaches those rows now, the way it already did for search, the tabs and Trending. In the player's Episodes panel, LEFT walks back through the season tabs instead of jumping into the search box, picking a season drops you straight onto the first episode at the top of the list, and a search now says how many matches it found across all seasons. Update from Settings - Check for Updates."
 }
