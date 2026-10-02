@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "1.4.94",
+  "versionCode": 114,
+  "versionName": "1.4.96",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "384c9f47e73648d6737f7fc12d6af9811df9a42ef467dd84808b5c1fbfebb332",
-  "releaseNotes": "A movie or show you locked on another device no longer sits in Continue Watching on the Home screen - the lock reaches those rows now, the way it already did for search, the tabs and Trending. In the player's Episodes panel, LEFT walks back through the season tabs instead of jumping into the search box, picking a season drops you straight onto the first episode at the top of the list, and a search now says how many matches it found across all seasons. Update from Settings - Check for Updates."
+  "sha256": "16306ea16616f310373f6e5862f5fb55b01fb23de188ea81d967abb099652b2a",
+  "releaseNotes": "Fixes a rare crash that could take the app down while the home screen was rebuilding its Continue Watching rows. A lock on a whole folder now hides its titles on the home screen straight after launch instead of only on the next visit, and locking a show from a Continue Watching card works even for older entries. Searching inside the player's Episodes list now matches what the row actually says - typing episode used to find nothing when the provider left the title blank - and you can jump straight to one with s01e03. Update from Settings - Check for Updates."
 }
