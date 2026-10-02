@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.4.96",
+  "versionCode": 115,
+  "versionName": "1.4.97",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "16306ea16616f310373f6e5862f5fb55b01fb23de188ea81d967abb099652b2a",
-  "releaseNotes": "Fixes a rare crash that could take the app down while the home screen was rebuilding its Continue Watching rows. A lock on a whole folder now hides its titles on the home screen straight after launch instead of only on the next visit, and locking a show from a Continue Watching card works even for older entries. Searching inside the player's Episodes list now matches what the row actually says - typing episode used to find nothing when the provider left the title blank - and you can jump straight to one with s01e03. Update from Settings - Check for Updates."
+  "sha256": "fe617eef9ab83095bc495e50d8de7d3dbbe3f97b03f92f5753fdb108c23494a0",
+  "releaseNotes": "Subtitle sync now reaches 60 seconds either way instead of 10, and the step speeds up while you keep pressing the same direction so you can actually cross that range - it drops back to fine steps the moment you pause or change direction. Update from Settings - Check for Updates."
 }
