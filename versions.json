@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.4.98",
+  "versionCode": 117,
+  "versionName": "1.4.99",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "24ad8ed27a067f26de3db7a434ede09fbe3a7e7e6c77da9db99402b6738fb839",
-  "releaseNotes": "Movies the player cannot measure now show their real length instead of 00:00 - the progress bar fills, the seek display counts against a total, and the app can tell when a film has been watched to the end. The length comes from your provider when the file itself does not carry one. Update from Settings - Check for Updates."
+  "sha256": "e53f6ee7685413fd5d57d9dde9d7ff384fe57893a2ecb1a8fbd38da7a1f19ffe",
+  "releaseNotes": "Movies the player cannot measure now show their real length instead of 00:00 - the progress bar fills, the time counts against a real total, and the app can tell when a film has been watched to the end. The length comes from your provider when the file itself does not carry one. Update from Settings - Check for Updates."
 }
