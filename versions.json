@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "1.4.100",
+  "versionCode": 119,
+  "versionName": "1.4.101",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "238a64a78d8b3abddb0e50d542041f3c0161922c652fefe45eb8986af7d93c65",
-  "releaseNotes": "Follow-up to the last build: a live channel can no longer pick up a length that belongs to something else, and leaving the player is tidier. Update from Settings - Check for Updates."
+  "sha256": "bbc02a58f1c81ed5901a24d496f4579b4574dfde44397a3c317d01fa11cb743f",
+  "releaseNotes": "A title you ticked by hand is no longer treated as a one-millisecond film: the player stops skipping to the next episode on its own, Mark as unwatched can undo Mark as watched, and nothing draws a full progress bar under something you never played. Update from Settings - Check for Updates."
 }
