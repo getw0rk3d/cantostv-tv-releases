@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "1.4.101",
+  "versionCode": 120,
+  "versionName": "1.4.102",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "bbc02a58f1c81ed5901a24d496f4579b4574dfde44397a3c317d01fa11cb743f",
-  "releaseNotes": "A title you ticked by hand is no longer treated as a one-millisecond film: the player stops skipping to the next episode on its own, Mark as unwatched can undo Mark as watched, and nothing draws a full progress bar under something you never played. Update from Settings - Check for Updates."
+  "sha256": "792fa3cceec2ff56b096a0a9559b53b0745f0ffc48f2b52cea5a2136f49ca969",
+  "releaseNotes": "Four more fixes: a channel locked by its folder stays locked when Multi-Screen restores it, Lock and Remove work on a Continue Watching show that arrived without an id, a movie keeps its total length after you leave the app and come back, and the in-player Episodes list now says when it could not load instead of looking empty. Update from Settings - Check for Updates."
 }
