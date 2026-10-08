@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "1.4.103",
+  "versionCode": 122,
+  "versionName": "1.4.104",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "b3e665a395c1386e463603eeb56fbb343da0fa3939981f9d6d282a72cc2030cd",
-  "releaseNotes": "Parental control fixes. The locks are now loaded before anything can play, so content you locked stays hidden even when the TV reopens straight into the player after killing the app in the background. The player also honours a locked episode: it is marked, it asks before playing, and the Up next countdown stops at it instead of starting it. And locking a title from its description page now removes it from the grid or row you came from right away. Update from Settings - Check for Updates."
+  "sha256": "017d94fef869adb815208e51787bf14c8d84c6d341444ac2a08912ada7582614",
+  "releaseNotes": "Continue Watching no longer shows the same film twice, and you can now hold a card, choose Select multiple to remove, tick several and clear them in one go. Update from Settings - Check for Updates."
 }
