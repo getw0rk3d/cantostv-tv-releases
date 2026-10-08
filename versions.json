@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "1.4.102",
+  "versionCode": 121,
+  "versionName": "1.4.103",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "792fa3cceec2ff56b096a0a9559b53b0745f0ffc48f2b52cea5a2136f49ca969",
-  "releaseNotes": "Four more fixes: a channel locked by its folder stays locked when Multi-Screen restores it, Lock and Remove work on a Continue Watching show that arrived without an id, a movie keeps its total length after you leave the app and come back, and the in-player Episodes list now says when it could not load instead of looking empty. Update from Settings - Check for Updates."
+  "sha256": "b3e665a395c1386e463603eeb56fbb343da0fa3939981f9d6d282a72cc2030cd",
+  "releaseNotes": "Parental control fixes. The locks are now loaded before anything can play, so content you locked stays hidden even when the TV reopens straight into the player after killing the app in the background. The player also honours a locked episode: it is marked, it asks before playing, and the Up next countdown stops at it instead of starting it. And locking a title from its description page now removes it from the grid or row you came from right away. Update from Settings - Check for Updates."
 }
