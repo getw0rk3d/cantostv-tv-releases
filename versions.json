@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.4.107",
+  "versionCode": 126,
+  "versionName": "1.4.108",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "74fd6cdb2d33e1270f2b387ac10fa844cbb5801ed2ee85fef26890a109f82232",
-  "releaseNotes": "The side menu is wider and its icons are larger. Update from Settings - Check for Updates."
+  "sha256": "d440dc4f1d08fba639f72e479be34bf193a1d778cdb917ad1b4ea1a4473c98d4",
+  "releaseNotes": "Tidier channel tiles: a channel with no logo now fills its card properly instead of showing a small panel inside a frame, Favourites no longer repeats the channel name on the tile, and search results no longer crop channel logos. Update from Settings - Check for Updates."
 }
