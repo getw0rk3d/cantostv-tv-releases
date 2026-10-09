@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "1.4.108",
+  "versionCode": 127,
+  "versionName": "1.4.109",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d440dc4f1d08fba639f72e479be34bf193a1d778cdb917ad1b4ea1a4473c98d4",
-  "releaseNotes": "Tidier channel tiles: a channel with no logo now fills its card properly instead of showing a small panel inside a frame, Favourites no longer repeats the channel name on the tile, and search results no longer crop channel logos. Update from Settings - Check for Updates."
+  "sha256": "100f29ee7f0bcbb1dcfc01f92d61a116fb54a6bcc6f92cdfcc5daf8959ebc1bf",
+  "releaseNotes": "Removing a film from Continue Watching now really removes it, even when the same film was in your list twice. Backing out of the remove confirmation keeps what you had ticked, and coming back from the side menu returns you to the row you were on. Update from Settings - Check for Updates."
 }
