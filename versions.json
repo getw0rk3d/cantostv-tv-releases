@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.4.104",
+  "versionCode": 123,
+  "versionName": "1.4.105",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "017d94fef869adb815208e51787bf14c8d84c6d341444ac2a08912ada7582614",
-  "releaseNotes": "Continue Watching no longer shows the same film twice, and you can now hold a card, choose Select multiple to remove, tick several and clear them in one go. Update from Settings - Check for Updates."
+  "sha256": "510532a5fb7006d87f6bcf2b5c13dde671a4663037d59097d2155e9185c2cb96",
+  "releaseNotes": "A new navigation menu down the left side. Live TV, Movies, Series, Favorites and Multi-Screen are always one press away instead of three rows down the home page - flick left from anywhere to open it, and the names slide in as you move through it. Update from Settings - Check for Updates."
 }
