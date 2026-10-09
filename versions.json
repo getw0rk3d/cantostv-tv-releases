@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.4.106",
+  "versionCode": 125,
+  "versionName": "1.4.107",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "eb382fad1428002c69e01733b20d0e706d36ec632d8f1ac63ad748cfaea657c4",
-  "releaseNotes": "A cleaner side menu: one matching set of icons instead of mixed emoji, a rounded highlight on the row you are on, and it no longer dims the CantosTV logo when it opens. Update from Settings - Check for Updates."
+  "sha256": "74fd6cdb2d33e1270f2b387ac10fa844cbb5801ed2ee85fef26890a109f82232",
+  "releaseNotes": "The side menu is wider and its icons are larger. Update from Settings - Check for Updates."
 }
