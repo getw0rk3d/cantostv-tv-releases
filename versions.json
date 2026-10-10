@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.4.110",
+  "versionCode": 129,
+  "versionName": "1.4.111",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d9f8b93917436f3e724522bb49f1f4f1217da41494d1204551013665a1b4673c",
-  "releaseNotes": "Removing a show from Continue Watching now removes the whole show even when it has no series id, instead of dropping one episode and showing the next. A film poster that fails to load shows its placeholder instead of an empty tile. Update from Settings - Check for Updates."
+  "sha256": "3ecbb26f15ac136829571606c9b8ce8c9848356fa144c9cdcc4403a68bd4c1c7",
+  "releaseNotes": "Settings and Parental Controls moved into the side menu, and the row of links at the bottom of the home screen is gone. Playlists is now Change account and lives in Settings alongside Log out, which now asks before signing you out. Update from Settings - Check for Updates."
 }
