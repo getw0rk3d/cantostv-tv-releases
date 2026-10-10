@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "1.4.111",
+  "versionCode": 130,
+  "versionName": "1.4.112",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "3ecbb26f15ac136829571606c9b8ce8c9848356fa144c9cdcc4403a68bd4c1c7",
-  "releaseNotes": "Settings and Parental Controls moved into the side menu, and the row of links at the bottom of the home screen is gone. Playlists is now Change account and lives in Settings alongside Log out, which now asks before signing you out. Update from Settings - Check for Updates."
+  "sha256": "5522e0dda96b640830bd80d0bb69a54198b59ab3a02fcc020e92502c6ab40d74",
+  "releaseNotes": "Important: Settings - Clear Continue Watching used to wipe your whole library on every device with a single press, with nothing to confirm it. It now tells you how many items and asks first. Update from Settings - Check for Updates."
 }
