@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "1.4.112",
+  "versionCode": 131,
+  "versionName": "1.4.113",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "5522e0dda96b640830bd80d0bb69a54198b59ab3a02fcc020e92502c6ab40d74",
-  "releaseNotes": "Important: Settings - Clear Continue Watching used to wipe your whole library on every device with a single press, with nothing to confirm it. It now tells you how many items and asks first. Update from Settings - Check for Updates."
+  "sha256": "e52ef44010a1c2607bc44514113b1ce1854f97d5a4e31bd67537b40297e8a417",
+  "releaseNotes": "The menu you get by holding OK on a poster, a channel, an episode or a folder is now the app's own, instead of the grey system box it used to be: the artwork behind the title, drawn icons, and the row you are on clearly highlighted. The description panel got the same treatment and opens straight away. Holding OK also works now on the Trending rails, in Search and on More Like This, where it used to do nothing. Every confirmation box is branded too, and the ones that delete something now start on Cancel. Update from Settings - Check for Updates."
 }
