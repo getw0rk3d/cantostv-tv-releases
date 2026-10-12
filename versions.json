@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "1.4.113",
+  "versionCode": 132,
+  "versionName": "1.4.114",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "e52ef44010a1c2607bc44514113b1ce1854f97d5a4e31bd67537b40297e8a417",
-  "releaseNotes": "The menu you get by holding OK on a poster, a channel, an episode or a folder is now the app's own, instead of the grey system box it used to be: the artwork behind the title, drawn icons, and the row you are on clearly highlighted. The description panel got the same treatment and opens straight away. Holding OK also works now on the Trending rails, in Search and on More Like This, where it used to do nothing. Every confirmation box is branded too, and the ones that delete something now start on Cancel. Update from Settings - Check for Updates."
+  "sha256": "92379719de261f3f4597cc109b7374a919fb3eefc1251085f7ed35766b7b3753",
+  "releaseNotes": "Live TV stays on by itself. A channel that stopped feeding without any error used to sit frozen until you pressed Resync - the player now notices the picture has stopped and reconnects on its own. And when a channel is unavailable because all your connections are in use, or the internet is down, it no longer gives up for good: it keeps trying quietly in the background and comes back when the connection frees up. Update from Settings - Check for Updates."
 }
