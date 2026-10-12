@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.4.114",
+  "versionCode": 133,
+  "versionName": "1.4.115",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "92379719de261f3f4597cc109b7374a919fb3eefc1251085f7ed35766b7b3753",
-  "releaseNotes": "Live TV stays on by itself. A channel that stopped feeding without any error used to sit frozen until you pressed Resync - the player now notices the picture has stopped and reconnects on its own. And when a channel is unavailable because all your connections are in use, or the internet is down, it no longer gives up for good: it keeps trying quietly in the background and comes back when the connection frees up. Update from Settings - Check for Updates."
+  "sha256": "f4932bcabc0060ae9027109f698acc269ba8238cf93f687976695e76785e5580",
+  "releaseNotes": "Important fix: locking a title straight from Search did not actually hide it, and a locked live channel could still be opened from those results without the PIN. It now disappears from the list the moment you lock it. Live TV also keeps watching itself properly after it reconnects once, instead of giving up, and locking from More Like This now takes effect. Update from Settings - Check for Updates."
 }
