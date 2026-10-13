@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.4.115",
+  "versionCode": 134,
+  "versionName": "1.4.116",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "f4932bcabc0060ae9027109f698acc269ba8238cf93f687976695e76785e5580",
-  "releaseNotes": "Important fix: locking a title straight from Search did not actually hide it, and a locked live channel could still be opened from those results without the PIN. It now disappears from the list the moment you lock it. Live TV also keeps watching itself properly after it reconnects once, instead of giving up, and locking from More Like This now takes effect. Update from Settings - Check for Updates."
+  "sha256": "b1f5de94d7c78b09a6cf5196b6c84717cdedf9ead0a3276215e2e194a5b4ba50",
+  "releaseNotes": "Fixes the options menu you get by holding OK: the highlighted row had its left and right edges cut off flat instead of rounded. Update from Settings - Check for Updates."
 }
