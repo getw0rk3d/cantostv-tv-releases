@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.4.116",
+  "versionCode": 135,
+  "versionName": "1.4.117",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "b1f5de94d7c78b09a6cf5196b6c84717cdedf9ead0a3276215e2e194a5b4ba50",
-  "releaseNotes": "Fixes the options menu you get by holding OK: the highlighted row had its left and right edges cut off flat instead of rounded. Update from Settings - Check for Updates."
+  "sha256": "87e1e3305dde8679b47c10bd20b7e0252c29663f850ea396412e924b284d0a37",
+  "releaseNotes": "Player menu is now one menu that hides by itself after 3 seconds (OK, UP and DOWN all open it). Channel search inside the player stays until you clear it. What you start watching shows in Continue Watching right away, and rewatching something you finished moves it back to Continue Watching. Restoring after an account switch keeps every playlist. Update from Settings - Check for Updates."
 }
