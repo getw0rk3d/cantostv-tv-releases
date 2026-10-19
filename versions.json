@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.4.117",
+  "versionCode": 136,
+  "versionName": "1.4.118",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "87e1e3305dde8679b47c10bd20b7e0252c29663f850ea396412e924b284d0a37",
-  "releaseNotes": "Player menu is now one menu that hides by itself after 3 seconds (OK, UP and DOWN all open it). Channel search inside the player stays until you clear it. What you start watching shows in Continue Watching right away, and rewatching something you finished moves it back to Continue Watching. Restoring after an account switch keeps every playlist. Update from Settings - Check for Updates."
+  "sha256": "5e8a616b7c7802859441e66d16b9a7f764a5690b5cf2b1ec1a10ad8a2323ba5b",
+  "releaseNotes": "Continue Watching has a new look: wide cards with the title's picture, time left and progress, and live channel tiles that show what is on now. Pausing a movie or episode keeps the menu on screen. Parental Controls: locked items show their poster or logo, a wrong PIN clears with a clear message, and creating a PIN asks for it twice. Update from Settings - Check for Updates."
 }
