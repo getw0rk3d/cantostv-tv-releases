@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "1.4.119",
+  "versionCode": 138,
+  "versionName": "1.4.120",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "2745d6f1ee84defa88f4ee4101a42072964d69823a301f76f00054601687b468",
+  "sha256": "caf1f43250ef7d1d08fd4547718de53c7a957ec7b18c968006872b6742fc340f",
   "releaseNotes": "New TV keyboard: type with the remote and the Google TV phone app at the same time, no more being sent to your phone. Voice typing: press the mic key on the keyboard and speak - the TV asks once for microphone permission. Update from Settings - Check for Updates."
 }
