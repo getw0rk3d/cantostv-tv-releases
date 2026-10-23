@@ -1,7 +1,7 @@
 {
-  "versionCode": 138,
-  "versionName": "1.4.120",
+  "versionCode": 139,
+  "versionName": "1.4.121",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "caf1f43250ef7d1d08fd4547718de53c7a957ec7b18c968006872b6742fc340f",
-  "releaseNotes": "New TV keyboard: type with the remote and the Google TV phone app at the same time, no more being sent to your phone. Voice typing: press the mic key on the keyboard and speak - the TV asks once for microphone permission. Update from Settings - Check for Updates."
+  "sha256": "bb6cd3b91d44b39e96262eeefb892efc378817bbfe40e50fcd68a4f7794dad18",
+  "releaseNotes": "Smoother scrolling: holding or tapping quickly through Movies, Series and Live TV no longer lags, and posters load faster. Update from Settings - Check for Updates."
 }
