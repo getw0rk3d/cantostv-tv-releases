@@ -2,6 +2,6 @@
   "versionCode": 137,
   "versionName": "1.4.119",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "0643c26619d86d519c150ea0d120b862bdf3450949b9ef3c609d40e0e0d5d1d1",
-  "releaseNotes": "Movie and series pages: the highlighted Play, Resume and Trailer buttons are no longer cut off at the edges. Update from Settings - Check for Updates."
+  "sha256": "2745d6f1ee84defa88f4ee4101a42072964d69823a301f76f00054601687b468",
+  "releaseNotes": "New TV keyboard: type with the remote and the Google TV phone app at the same time, no more being sent to your phone. Voice typing: press the mic key on the keyboard and speak - the TV asks once for microphone permission. Update from Settings - Check for Updates."
 }
