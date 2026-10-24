@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "1.4.121",
+  "versionCode": 140,
+  "versionName": "1.4.122",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "bb6cd3b91d44b39e96262eeefb892efc378817bbfe40e50fcd68a4f7794dad18",
-  "releaseNotes": "Smoother scrolling: holding or tapping quickly through Movies, Series and Live TV no longer lags, and posters load faster. Update from Settings - Check for Updates."
+  "sha256": "bc12594c31e5953c435aae7332fcdf7803a57a1b7a73387ba9934b1438cc7ecc",
+  "releaseNotes": "Descriptions on movie and series pages now follow the app language (English or Spanish) and are no longer cut off. The left menu on Home takes less space. Multi-Screen: the channel search no longer gets stuck - DOWN and BACK return to the list. Update from Settings - Check for Updates."
 }
