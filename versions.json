@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "1.4.122",
+  "versionCode": 141,
+  "versionName": "1.4.123",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "bc12594c31e5953c435aae7332fcdf7803a57a1b7a73387ba9934b1438cc7ecc",
-  "releaseNotes": "Descriptions on movie and series pages now follow the app language (English or Spanish) and are no longer cut off. The left menu on Home takes less space. Multi-Screen: the channel search no longer gets stuck - DOWN and BACK return to the list. Update from Settings - Check for Updates."
+  "sha256": "945e182231ab00944e320e6af9752c166b41b22473aa2f9a9fbe69119b6b7d8b",
+  "releaseNotes": "Smoother scrolling everywhere - holding the remote through Movies, Series and Live TV no longer stutters. Movie and series pages show a clean title with the original-language title under it. Favorites, Parental and Home land on the right place when you open them or move between rows. The audio menu tells tracks apart, search shows posters for films, and the parental PIN opens as soon as you type the last digit. Update from Settings - Check for Updates."
 }
