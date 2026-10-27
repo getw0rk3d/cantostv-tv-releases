@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "1.4.123",
+  "versionCode": 142,
+  "versionName": "1.4.124",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "945e182231ab00944e320e6af9752c166b41b22473aa2f9a9fbe69119b6b7d8b",
-  "releaseNotes": "Smoother scrolling everywhere - holding the remote through Movies, Series and Live TV no longer stutters. Movie and series pages show a clean title with the original-language title under it. Favorites, Parental and Home land on the right place when you open them or move between rows. The audio menu tells tracks apart, search shows posters for films, and the parental PIN opens as soon as you type the last digit. Update from Settings - Check for Updates."
+  "sha256": "9b3a56a552e4bc177d2f5fcb5e2abacbd958dbf3a946ea336ba3aa9312030546",
+  "releaseNotes": "Search finds what you type in any order - batman 2022 now finds Batman (2022), and accents no longer matter. Update from Settings - Check for Updates."
 }
