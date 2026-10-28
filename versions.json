@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "1.4.124",
+  "versionCode": 143,
+  "versionName": "1.4.125",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "9b3a56a552e4bc177d2f5fcb5e2abacbd958dbf3a946ea336ba3aa9312030546",
-  "releaseNotes": "Search finds what you type in any order - batman 2022 now finds Batman (2022), and accents no longer matter. Update from Settings - Check for Updates."
+  "sha256": "7f53e1304b19f93a02c5970a122b7c58d488eabf1071818c0739a8a8584f82a4",
+  "releaseNotes": "Movie and series pages show which audio languages a title has, read from the file itself. Hold OK on a season tab to mark the whole season watched or unwatched. Play moves on to the next episode after a finished one, series descriptions load for more titles, and search lists exact matches first. Update from Settings - Check for Updates."
 }
