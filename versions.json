@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.4.125",
+  "versionCode": 144,
+  "versionName": "1.4.126",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "7f53e1304b19f93a02c5970a122b7c58d488eabf1071818c0739a8a8584f82a4",
-  "releaseNotes": "Movie and series pages show which audio languages a title has, read from the file itself. Hold OK on a season tab to mark the whole season watched or unwatched. Play moves on to the next episode after a finished one, series descriptions load for more titles, and search lists exact matches first. Update from Settings - Check for Updates."
+  "sha256": "d77d0aeaf27c2dbafa09f85b41e4f0779eb8392181dfbeab58a810feda12e11a",
+  "releaseNotes": "A new Settings page, laid out the same as the phone and desktop. Live TV has a Previous button to jump back to your last channel. Removing a title from Continue Watching now resets it to never watched. The player has a sleep timer and Skip Intro marks that sync across your devices, Home shows Recently Added, and Search can filter by year. Update from Settings - Check for Updates."
 }
