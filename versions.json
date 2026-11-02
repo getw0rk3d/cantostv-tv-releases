@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "1.4.126",
+  "versionCode": 145,
+  "versionName": "1.4.127",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d77d0aeaf27c2dbafa09f85b41e4f0779eb8392181dfbeab58a810feda12e11a",
-  "releaseNotes": "A new Settings page, laid out the same as the phone and desktop. Live TV has a Previous button to jump back to your last channel. Removing a title from Continue Watching now resets it to never watched. The player has a sleep timer and Skip Intro marks that sync across your devices, Home shows Recently Added, and Search can filter by year. Update from Settings - Check for Updates."
+  "sha256": "9b0e910356c0691bb750b72c12a1f36341c3fd6522ccbfdd322d60220920f720",
+  "releaseNotes": "Skip Intro, Skip Recap and Skip Ending on series, found automatically for many shows. Skipping the ending goes straight to the next episode. Search and the Movies, Series and Live TV tabs have filters for genre, year, language, quality, service, country and channel type, and list the newest first. Shows you follow say when new episodes arrive. The Series page scrolls smoothly and has the same buttons as the Movie page. Live TV has Previous next to pause and no longer offers playback speed. Update from Settings - Check for Updates."
 }
