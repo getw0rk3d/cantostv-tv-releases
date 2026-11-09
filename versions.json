@@ -1,7 +1,7 @@
 {
-  "versionCode": 145,
-  "versionName": "1.4.127",
+  "versionCode": 146,
+  "versionName": "1.4.128",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "9b0e910356c0691bb750b72c12a1f36341c3fd6522ccbfdd322d60220920f720",
-  "releaseNotes": "Skip Intro, Skip Recap and Skip Ending on series, found automatically for many shows. Skipping the ending goes straight to the next episode. Search and the Movies, Series and Live TV tabs have filters for genre, year, language, quality, service, country and channel type, and list the newest first. Shows you follow say when new episodes arrive. The Series page scrolls smoothly and has the same buttons as the Movie page. Live TV has Previous next to pause and no longer offers playback speed. Update from Settings - Check for Updates."
+  "sha256": "d71c89fbf78ccbac9f2d3eeb7ca1d5430634e51a5385d00d9c5033ac30cd7386",
+  "releaseNotes": "The server now shows as iptv.cantostv.com. New sign-in, Add Playlist and Sync forms: rounded fields with labels and a clear (X) button, and the Xtream server stays filled in. The keyboard no longer opens by itself, and UP or DOWN moves straight out of a field. Signing out of Sync saves your library to your account and leaves the TV clean; sign back in to bring it back. Update from Settings - Check for Updates."
 }
