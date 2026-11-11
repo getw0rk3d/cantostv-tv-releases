@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.4.128",
+  "versionCode": 147,
+  "versionName": "1.4.129",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "d71c89fbf78ccbac9f2d3eeb7ca1d5430634e51a5385d00d9c5033ac30cd7386",
-  "releaseNotes": "The server now shows as iptv.cantostv.com. New sign-in, Add Playlist and Sync forms: rounded fields with labels and a clear (X) button, and the Xtream server stays filled in. The keyboard no longer opens by itself, and UP or DOWN moves straight out of a field. Signing out of Sync saves your library to your account and leaves the TV clean; sign back in to bring it back. Update from Settings - Check for Updates."
+  "sha256": "60088273b8602dfa1964b3b16ca8831e05624828bba2a51e80a8e69a368759f1",
+  "releaseNotes": "What is on now under every channel: the start time, the show and a bar for how far into it you are, in the Live TV list and in the player's channel list. It moves on to the next show by itself. Update from Settings - Check for Updates."
 }
