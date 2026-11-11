@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.4.129",
+  "versionCode": 148,
+  "versionName": "1.4.130",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "60088273b8602dfa1964b3b16ca8831e05624828bba2a51e80a8e69a368759f1",
-  "releaseNotes": "What is on now under every channel: the start time, the show and a bar for how far into it you are, in the Live TV list and in the player's channel list. It moves on to the next show by itself. Update from Settings - Check for Updates."
+  "sha256": "ffb1abb4a75bccbb53b610ab92dd974bab6fc70bbc4ec6dcd0a835b12299b6c7",
+  "releaseNotes": "Subtitle sync: six buttons that move exactly what they say (-5s, -1s, -0.25s, +0.25s, +1s, +5s) instead of speeding up by themselves. Files that carry their own subtitles are under CC / Subtitles and are always in sync. Update from Settings - Check for Updates."
 }
