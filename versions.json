@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "1.4.130",
+  "versionCode": 149,
+  "versionName": "1.4.131",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "ffb1abb4a75bccbb53b610ab92dd974bab6fc70bbc4ec6dcd0a835b12299b6c7",
-  "releaseNotes": "Subtitle sync: six buttons that move exactly what they say (-5s, -1s, -0.25s, +0.25s, +1s, +5s) instead of speeding up by themselves. Files that carry their own subtitles are under CC / Subtitles and are always in sync. Update from Settings - Check for Updates."
+  "sha256": "693c5c0e61132d9e59d621026d4d98d3fc8e31535c42f8ece2700f795f421c08",
+  "releaseNotes": "Fire TV: Sign in with Google from your phone - the TV shows a QR code and a code to approve at cantostv.com/link. Trending is now what is trending this week that your catalogue has, the same all day. More like this shows films like the one you picked. A new round tick when selecting several, and Select multiple to remove in Live TV Continue Watching. Update from Settings - Check for Updates."
 }
