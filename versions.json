@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "1.4.131",
+  "versionCode": 150,
+  "versionName": "1.4.132",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "693c5c0e61132d9e59d621026d4d98d3fc8e31535c42f8ece2700f795f421c08",
-  "releaseNotes": "Fire TV: Sign in with Google from your phone - the TV shows a QR code and a code to approve at cantostv.com/link. Trending is now what is trending this week that your catalogue has, the same all day. More like this shows films like the one you picked. A new round tick when selecting several, and Select multiple to remove in Live TV Continue Watching. Update from Settings - Check for Updates."
+  "sha256": "fe0c5074e5e558f8445858f550435fcf14a2091b7c81fd6a31ec9d1ae190663c",
+  "releaseNotes": "Fixes cannot connect: the provider moved to a new server, so the app now connects through line.cantostv.com, our own name for it. Your server still shows as iptv.cantostv.com and your history and favorites are unchanged. Update from Settings - Check for Updates."
 }
