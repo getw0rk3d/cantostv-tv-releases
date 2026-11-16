@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "1.4.132",
+  "versionCode": 151,
+  "versionName": "1.4.133",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "fe0c5074e5e558f8445858f550435fcf14a2091b7c81fd6a31ec9d1ae190663c",
-  "releaseNotes": "Fixes cannot connect: the provider moved to a new server, so the app now connects through line.cantostv.com, our own name for it. Your server still shows as iptv.cantostv.com and your history and favorites are unchanged. Update from Settings - Check for Updates."
+  "sha256": "531c5d0009a34e923786c7013e55d99b686a4fbacaa6009001929aac1982f9af",
+  "releaseNotes": "Live TV shows what is on now again. Family profiles: each person keeps their own Continue Watching, history and favorites (Settings - Account - Profile). An update you put off now stays in Settings - About. Update from Settings - Check for Updates."
 }
