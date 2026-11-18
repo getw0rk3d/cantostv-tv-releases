@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "1.4.133",
+  "versionCode": 152,
+  "versionName": "1.4.134",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "531c5d0009a34e923786c7013e55d99b686a4fbacaa6009001929aac1982f9af",
-  "releaseNotes": "Live TV shows what is on now again. Family profiles: each person keeps their own Continue Watching, history and favorites (Settings - Account - Profile). An update you put off now stays in Settings - About. Update from Settings - Check for Updates."
+  "sha256": "f45f8fb482ce942a981d828d802cfdf5ffa3d608ad01af8360ad1602eb40e723",
+  "releaseNotes": "Sign in by scanning a QR code with your phone, TV login included - or approve it in the CantosTV phone app (Sync my account - Scan a code). Cloud Sync fits the screen and shows Live right after you sign in. Remove a saved email with the X next to it. Update from Settings - Check for Updates."
 }
