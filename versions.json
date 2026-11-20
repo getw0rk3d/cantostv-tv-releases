@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "1.4.135",
+  "versionCode": 154,
+  "versionName": "1.4.136",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "b4c57cb1fce59f4c8ee99e0b7c71c74167c236439b768dfbb1ca0c239dc018f6",
-  "releaseNotes": "Live TV: press OK on a channel to watch it in the preview on the right, with what is on now and next - OK again for full screen. New: Settings - About - Report a problem. Search shows what is on now under channels. Profiles only ask for the PIN when leaving a Kids profile. Update from Settings - Check for Updates."
+  "sha256": "374f1d391f1b9266ea5474532e61de85e0d1360f24ccdf38d0b816a91ef56b9a",
+  "releaseNotes": "Online subtitles follow the next episode by themselves, and the best one is listed first: streaming and BluRay files before TV broadcast rips, the release you used on the last episode, and what other viewers said. New in the Online subtitles menu: It is in sync / It is out of sync. Season packs now give the right episode. Live TV: narrower folder column, more room for channels."
 }
