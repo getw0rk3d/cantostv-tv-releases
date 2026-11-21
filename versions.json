@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "1.4.138",
+  "versionCode": 157,
+  "versionName": "1.4.139",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "f9e7d8b44d3173635e1b25aa51937dbce26a70c341442c21fe5f69273d9b82e1",
-  "releaseNotes": "Send to my TV: what plays on your phone can carry on here - keep CantosTV open on this TV, signed in to the same account. Live TV reminders: hold OK on a channel and pick Remind me for its next show. Kids profiles now see kids content only. Check marks on series you finished. Subtitles load faster when another viewer already used them."
+  "sha256": "4761f72d447685588267b7b6319813a88cb52c762d51ae0170ca3fba853971ae",
+  "releaseNotes": "Online subtitles: the second subtitle source (SubDL) works again. Also in this version: Send to my TV, Live TV reminders, Kids profiles see kids content only, and check marks on series you finished."
 }
