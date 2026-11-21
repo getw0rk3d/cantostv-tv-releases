@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "1.4.136",
+  "versionCode": 156,
+  "versionName": "1.4.138",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "374f1d391f1b9266ea5474532e61de85e0d1360f24ccdf38d0b816a91ef56b9a",
-  "releaseNotes": "Online subtitles follow the next episode by themselves, and the best one is listed first: streaming and BluRay files before TV broadcast rips, the release you used on the last episode, and what other viewers said. New in the Online subtitles menu: It is in sync / It is out of sync. Season packs now give the right episode. Live TV: narrower folder column, more room for channels."
+  "sha256": "f9e7d8b44d3173635e1b25aa51937dbce26a70c341442c21fe5f69273d9b82e1",
+  "releaseNotes": "Send to my TV: what plays on your phone can carry on here - keep CantosTV open on this TV, signed in to the same account. Live TV reminders: hold OK on a channel and pick Remind me for its next show. Kids profiles now see kids content only. Check marks on series you finished. Subtitles load faster when another viewer already used them."
 }
