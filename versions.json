@@ -1,7 +1,7 @@
 {
-  "versionCode": 157,
-  "versionName": "1.4.139",
+  "versionCode": 158,
+  "versionName": "1.4.140",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "4761f72d447685588267b7b6319813a88cb52c762d51ae0170ca3fba853971ae",
-  "releaseNotes": "Online subtitles: the second subtitle source (SubDL) works again. Also in this version: Send to my TV, Live TV reminders, Kids profiles see kids content only, and check marks on series you finished."
+  "sha256": "c40ba4d8fb815a641e6821080fceb9b72b64be3395affb2a2c0b1a8ed9462932",
+  "releaseNotes": "When a film or the last episode of a show ends, More like this shows what to watch next, and series pages have a More like this button. Player Settings: volume boost, audio sync (voice and lips), dark subtitle background and higher subtitles, and Report a problem with this. Remotes with CH+ and CH- change channel, and previous / next change episode."
 }
