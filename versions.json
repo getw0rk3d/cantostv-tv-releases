@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "1.4.142",
+  "versionCode": 161,
+  "versionName": "1.4.143",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "daa0410a2830424e8739aeb7ac594771a9be7e5b8b5dafbbf6a8e3481d49e034",
-  "releaseNotes": "Live [DUAL] channels: English is back in the Audio menu after changing channel, so you can always pick Spanish or English. The player title shows the full channel name."
+  "sha256": "ada4254ebfac53c42dc72cb648f68a2869132b5c33625bdbfe603bce1f0b470b",
+  "releaseNotes": "Simpler player bar: Subtitles and Audio show only when there is something to choose, so most live channels have four buttons. Online subtitles are now inside Subtitles (Search online at the end of the list)."
 }
