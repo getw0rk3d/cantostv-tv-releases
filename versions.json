@@ -1,7 +1,7 @@
 {
-  "versionCode": 161,
-  "versionName": "1.4.143",
+  "versionCode": 162,
+  "versionName": "1.4.144",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "ada4254ebfac53c42dc72cb648f68a2869132b5c33625bdbfe603bce1f0b470b",
-  "releaseNotes": "Simpler player bar: Subtitles and Audio show only when there is something to choose, so most live channels have four buttons. Online subtitles are now inside Subtitles (Search online at the end of the list)."
+  "sha256": "f05b3dfb1ea651f906ccff920c0ef23fd61811f6186a7be7ae5c319850a83bd3",
+  "releaseNotes": "Live TV: All Channels and Favorites open faster, so moving between folders feels quicker. Also has the simpler player bar from 1.4.143: Subtitles and Audio only show when there is something to choose."
 }
