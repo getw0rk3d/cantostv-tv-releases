@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "1.4.140",
+  "versionCode": 159,
+  "versionName": "1.4.141",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "c40ba4d8fb815a641e6821080fceb9b72b64be3395affb2a2c0b1a8ed9462932",
-  "releaseNotes": "When a film or the last episode of a show ends, More like this shows what to watch next, and series pages have a More like this button. Player Settings: volume boost, audio sync (voice and lips), dark subtitle background and higher subtitles, and Report a problem with this. Remotes with CH+ and CH- change channel, and previous / next change episode."
+  "sha256": "18ca5f7745dc52b05c7011c5accfd547a3ff509f7e721c8a897c2d037ae9c90d",
+  "releaseNotes": "Live [DUAL] channels: press Audio in the player to switch between Spanish and English. Full names: film, show and channel names get two lines, and a longer one scrolls while it is highlighted."
 }
