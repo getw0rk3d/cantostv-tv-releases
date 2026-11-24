@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "1.4.145",
+  "versionCode": 164,
+  "versionName": "1.4.146",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "ff26a484b10f43b72cb27138cc3d0c2e9a18e0d15328c05b5467ec195d6c27f8",
-  "releaseNotes": "Fire TV: menus like Audio, Subtitles and Settings now float over the video instead of covering the whole screen in black, so you can keep watching while you choose."
+  "sha256": "9a618894ca0d68d8cf6716988d0cf46f55ee6c9ebf1e890d6602448757db37f9",
+  "releaseNotes": "When a movie or show ends, a new full screen shows what to watch next: move along the row to see each one with its picture, details, quality and description, and press OK to open it. The full title now shows under the player buttons."
 }
