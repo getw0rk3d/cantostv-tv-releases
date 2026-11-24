@@ -1,7 +1,7 @@
 {
-  "versionCode": 162,
-  "versionName": "1.4.144",
+  "versionCode": 163,
+  "versionName": "1.4.145",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "f05b3dfb1ea651f906ccff920c0ef23fd61811f6186a7be7ae5c319850a83bd3",
-  "releaseNotes": "Live TV: All Channels and Favorites open faster, so moving between folders feels quicker. Also has the simpler player bar from 1.4.143: Subtitles and Audio only show when there is something to choose."
+  "sha256": "ff26a484b10f43b72cb27138cc3d0c2e9a18e0d15328c05b5467ec195d6c27f8",
+  "releaseNotes": "Fire TV: menus like Audio, Subtitles and Settings now float over the video instead of covering the whole screen in black, so you can keep watching while you choose."
 }
