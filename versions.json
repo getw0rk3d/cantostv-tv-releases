@@ -1,7 +1,7 @@
 {
-  "versionCode": 164,
-  "versionName": "1.4.146",
+  "versionCode": 165,
+  "versionName": "1.4.147",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "9a618894ca0d68d8cf6716988d0cf46f55ee6c9ebf1e890d6602448757db37f9",
-  "releaseNotes": "When a movie or show ends, a new full screen shows what to watch next: move along the row to see each one with its picture, details, quality and description, and press OK to open it. The full title now shows under the player buttons."
+  "sha256": "998fd40f7095402705fd266bdcdeb1d0a9a4d67fb787f43a640f301c218c3af3",
+  "releaseNotes": "Movie and series pages now show the quality and language of each copy (FHD, 4K, CAM, DUAL LAT) next to the title, so you know what you are about to watch."
 }
