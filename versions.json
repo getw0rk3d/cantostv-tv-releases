@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "1.4.147",
+  "versionCode": 166,
+  "versionName": "1.4.148",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "998fd40f7095402705fd266bdcdeb1d0a9a4d67fb787f43a640f301c218c3af3",
-  "releaseNotes": "Movie and series pages now show the quality and language of each copy (FHD, 4K, CAM, DUAL LAT) next to the title, so you know what you are about to watch."
+  "sha256": "80c90520702667da4a297c591bb004a491520a4f822f6fc0ffcfa957286dfdc2",
+  "releaseNotes": "Fixes for the screen at the end of a movie or show: Watch again and Close show their labels and sit at the top, the selected poster keeps its full name, and Up goes to Watch again. Episode titles show the episode number once."
 }
