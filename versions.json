@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "1.4.148",
+  "versionCode": 167,
+  "versionName": "1.4.149",
   "apkUrl": "https://github.com/getw0rk3d/cantostv-tv-releases/raw/main/CantosTV-AndroidTV.apk",
-  "sha256": "80c90520702667da4a297c591bb004a491520a4f822f6fc0ffcfa957286dfdc2",
-  "releaseNotes": "Fixes for the screen at the end of a movie or show: Watch again and Close show their labels and sit at the top, the selected poster keeps its full name, and Up goes to Watch again. Episode titles show the episode number once."
+  "sha256": "796960d904827706cbf6156619fedb4c7b2a6c86e0d4ab2a2b17728ef749f734",
+  "releaseNotes": "Channel lists show each channel's full name and the full title of what is on now, in the player, on Live TV and in Search, instead of cutting it off."
 }
